@@ -1,0 +1,515 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-02-14T11:17:05.913Z,51.5247,-130.9331,10,4.6,mwr,,159,0.786,1.3,us,us70007pya,2020-02-15T07:45:24.210Z,"206km WSW of Bella Bella, Canada",earthquake,6.6,2,0.068,21,reviewed,us,us
+2020-01-21T05:51:27.558Z,52.7695,-132.3103,10,4,mb,,176,0.428,1.19,us,us60007bws,2020-02-14T12:44:15.002Z,"139km S of Masset, Canada",earthquake,5.3,1.9,0.143,13,reviewed,us,us
+2020-01-08T20:20:41.902Z,50.9158,-129.9784,10,4.6,mwr,,151,1.203,0.51,us,us70006wis,2020-02-21T00:44:59.040Z,"181km W of Port Hardy, Canada",earthquake,7.9,1.9,,,reviewed,us,pgc
+2019-12-25T20:38:52.559Z,50.9158,-130.2782,10,4.5,mb,,148,1.389,1.34,us,us70006r1m,2020-02-20T16:10:24.040Z,"202km W of Port Hardy, Canada",earthquake,5.8,1.9,0.032,280,reviewed,us,us
+2019-12-25T16:25:44.362Z,50.4606,-129.3485,10,4,mb,,171,1.892,0.86,us,us70006qzl,2020-01-16T02:18:57.040Z,"139km W of Port Hardy, Canada",earthquake,9.7,2,0.075,48,reviewed,us,us
+2019-12-25T03:36:01.626Z,50.6106,-129.963,6.58,6.3,mww,,77,1.853,0.67,us,us70006qt7,2020-02-03T22:24:29.807Z,"180km W of Port Hardy, Canada",earthquake,7.2,1.3,0.032,95,reviewed,us,us
+2019-12-23T23:38:28.951Z,50.6964,-129.7652,10,4.9,mwr,,138,1.04,0.74,us,us70006qcr,2020-01-31T01:39:17.040Z,"165km W of Port Hardy, Canada",earthquake,5.4,1.9,,,reviewed,us,pgc
+2019-12-23T22:50:17.876Z,50.4966,-129.1629,10,4.1,mb,,145,0.672,0.85,us,us70006qbs,2020-01-13T04:23:30.040Z,"125km W of Port Hardy, Canada",earthquake,8.2,1.9,0.071,54,reviewed,us,us
+2019-12-23T22:20:06.787Z,50.6098,-129.5163,10,4.4,mwr,,167,0.881,0.71,us,us70006qaq,2020-01-13T21:51:22.040Z,"148km W of Port Hardy, Canada",earthquake,5.3,2,,,reviewed,us,pgc
+2019-12-23T20:56:23.555Z,50.5169,-129.7573,10,6,mww,,99,1.042,1.05,us,us70006q96,2020-01-27T21:33:12.098Z,"166km W of Port Hardy, Canada",earthquake,5.7,1.8,0.038,66,reviewed,us,us
+2019-12-23T19:49:43.086Z,50.6071,-129.9372,10,6,mww,,100,1.149,1.06,us,us70006q8n,2020-02-25T20:14:51.617Z,"178km W of Port Hardy, Canada",earthquake,4.4,1.8,0.03,106,reviewed,us,us
+2019-12-23T19:13:25.075Z,50.543,-129.8328,10,5.7,mww,,116,1.087,0.93,us,us70006q8f,2020-01-14T14:39:07.366Z,"171km W of Port Hardy, Canada",earthquake,3.3,1.7,0.032,92,reviewed,us,us
+2019-12-23T16:44:13.789Z,50.5667,-129.7193,10,5.2,mww,,147,1.907,0.59,us,us70006q6p,2020-01-22T14:09:29.640Z,"163km W of Port Hardy, Canada",earthquake,2.4,1.9,0.039,62,reviewed,us,us
+2019-12-01T20:34:05.551Z,48.3303,-128.8379,10,4,mb,,191,2.303,1.23,us,us70006f29,2020-02-19T18:58:29.040Z,"234km WSW of Tofino, Canada",earthquake,8.2,2,0.102,26,reviewed,us,us
+2019-11-09T18:58:41.133Z,52.7482,-132.3173,15.48,4.6,mwr,,114,0.449,1.22,us,us600069rt,2020-02-01T23:22:12.040Z,"141km S of Masset, Canada",earthquake,4.4,3.8,,,reviewed,us,pgc
+2019-08-03T04:11:45.107Z,50.5552,-129.7825,3.13,4.4,mwr,,168,1.054,0.89,us,us60005024,2019-10-19T21:42:06.040Z,"167km W of Port Hardy, Canada",earthquake,8.7,5.9,0.036,75,reviewed,us,us
+2019-07-05T13:02:16.544Z,51.2999,-130.6153,10,4.6,mb,,111,1.058,0.97,us,us70004b0c,2019-09-26T14:30:20.040Z,"197km WSW of Bella Bella, Canada",earthquake,7.1,1.9,0.091,36,reviewed,us,us
+2019-07-05T12:58:27.988Z,51.3441,-130.5744,9,5.6,mww,,69,1.026,0.72,us,us70004b08,2019-09-26T14:30:20.040Z,"192km WSW of Bella Bella, Canada",earthquake,5.6,1.8,0.042,55,reviewed,us,us
+2019-07-05T12:51:38.635Z,51.4142,-130.5286,10,4.7,mwr,,140,0.973,0.75,us,us70004b04,2019-09-26T14:30:19.040Z,"186km WSW of Bella Bella, Canada",earthquake,5.9,1.9,0.098,10,reviewed,us,us
+2019-07-04T13:29:46.505Z,52.8924,-132.7026,5.6,3.7,ml,,,,0.41,ak,ak0198i6c5kq,2019-07-24T19:02:31.932Z,"131km SSW of Masset, Canada",earthquake,,0.4,,,reviewed,ak,ak
+2019-07-04T04:30:44.424Z,51.2369,-130.5005,10,6.2,mww,,70,1.143,1.01,us,us700049sf,2019-09-26T14:30:08.040Z,"194km WSW of Bella Bella, Canada",earthquake,6.6,1.8,0.026,143,reviewed,us,us
+2019-05-16T18:59:34.356Z,47.7271,-129.0313,10,2.7,ml,,278,2.66,0.44,us,us60003rbz,2019-08-07T22:03:24.040Z,"280km WSW of Tofino, Canada",earthquake,10.8,2,0.115,10,reviewed,us,us
+2019-05-14T09:37:36.987Z,49.1649,-128.7991,10,4.1,mb,,160,1.538,0.92,us,us70003kwz,2019-08-07T22:03:34.040Z,"197km SSW of Port Hardy, Canada",earthquake,7.7,2,0.043,150,reviewed,us,us
+2019-05-13T08:55:28.532Z,50.2759,-129.6996,10,4.2,mb,,164,1.065,0.82,us,us70003kab,2019-08-01T17:15:16.040Z,"168km WSW of Port Hardy, Canada",earthquake,5.1,1.9,0.036,221,reviewed,us,us
+2019-04-22T21:44:41.970Z,50.2225,-130.1725,10,5.5,mww,,81,1.369,0.84,us,us70003afb,2019-06-26T20:55:16.040Z,"202km WSW of Port Hardy, Canada",earthquake,5,1.8,0.028,127,reviewed,us,us
+2019-04-22T20:26:58.361Z,50.3153,-130.0769,8.34,4.9,mww,,160,1.283,1.26,us,us70003adv,2019-06-26T20:55:15.040Z,"193km WSW of Port Hardy, Canada",earthquake,7.5,2.6,0.062,25,reviewed,us,us
+2019-02-15T06:27:37.370Z,50.6676,-130.0962,10,4,mb,,197,1.249,1.3,us,us2000jib9,2019-05-01T22:00:46.040Z,"189km W of Port Hardy, Canada",earthquake,5.4,1.9,0.138,14,reviewed,us,us
+2019-02-14T00:54:43.290Z,50.783,-129.987,10,4.1,mb,,177,1.187,1.18,us,us2000jhpm,2019-05-01T22:00:40.040Z,"181km W of Port Hardy, Canada",earthquake,6.8,1.9,0.081,42,reviewed,us,us
+2019-02-14T00:34:43.730Z,50.7098,-130.0867,10,5.3,mww,,144,1.244,0.74,us,usd0009e9t,2019-05-01T22:01:16.040Z,"188km W of Port Hardy, Canada",earthquake,5.5,1.8,0.03,108,reviewed,us,us
+2019-02-13T23:14:54.210Z,50.5387,-130.3124,10,4,mb,,167,1.392,1.16,us,us2000jhmy,2019-05-01T22:00:40.040Z,"205km W of Port Hardy, Canada",earthquake,5,1.8,0.196,7,reviewed,us,us
+2019-02-13T22:53:54.920Z,50.5088,-130.353,10,4.1,mb,,170,1.421,0.98,us,us2000jhmf,2019-05-01T22:00:40.040Z,"208km W of Port Hardy, Canada",earthquake,4.5,2,0.084,39,reviewed,us,us
+2019-02-11T00:02:01.050Z,50.7226,-130.0961,10,4.1,mwr,,162,1.251,0.86,us,us2000jg5i,2019-04-25T15:32:06.040Z,"189km W of Port Hardy, Canada",earthquake,5.5,1.9,0.075,17,reviewed,us,us
+2019-01-18T01:34:44.870Z,49.5587,-129.7563,10,4.1,mb,,174,1.504,0.96,us,us2000jbxj,2019-04-05T21:41:03.040Z,"209km SW of Port Hardy, Canada",earthquake,9.2,2,0.197,7,reviewed,us,us
+2019-01-17T03:23:44.360Z,50.7626,-129.6421,10,4.9,mwr,,201,0.967,0.82,us,us2000j4vi,2019-04-05T21:40:59.040Z,"157km W of Port Hardy, Canada",earthquake,7.6,2,,,reviewed,us,pgc
+2018-12-23T02:29:31.610Z,52.9842,-132.6037,10,4.2,mwr,,201,0.231,1.25,us,us2000iwix,2019-02-23T20:22:36.040Z,"119km SSW of Masset, Canada",earthquake,3.5,1.9,,,reviewed,us,pgc
+2018-12-09T18:14:23.930Z,49.0242,-128.5416,10,4.6,mwr,,174,1.639,1.31,us,us1000i5dt,2019-02-16T19:52:34.040Z,"193km W of Tofino, Canada",earthquake,5.9,2,,,reviewed,us,pgc
+2018-12-09T17:48:40.940Z,48.9734,-128.7003,10,4.6,mwr,,164,1.708,1.18,us,us1000i5di,2019-02-16T19:52:34.040Z,"205km W of Tofino, Canada",earthquake,7.9,2,,,reviewed,us,pgc
+2018-12-09T16:20:13.320Z,49.0257,-128.8745,10,5.4,mww,,163,1.686,1.05,us,us1000i5cf,2019-02-16T19:52:34.040Z,"213km SSW of Port Hardy, Canada",earthquake,7.7,1.9,0.04,59,reviewed,us,us
+2018-12-01T07:33:47.180Z,50.0974,-129.4077,10,4.7,mwr,,179,0.98,0.74,us,us1000hzc2,2019-02-09T19:02:16.040Z,"156km WSW of Port Hardy, Canada",earthquake,6.2,1.9,,,reviewed,us,pgc
+2018-11-05T20:25:35.860Z,49.2407,-129.4142,10,4.3,mb,,165,1.627,1.24,us,us2000i755,2019-01-21T16:42:51.040Z,"216km SW of Port Hardy, Canada",earthquake,7.9,2,0.04,180,reviewed,us,us
+2018-11-01T04:22:19.760Z,49.3356,-129.3083,10,4.9,mww,,84,1.51,0.83,us,us2000i53f,2019-01-21T14:29:42.040Z,"203km SW of Port Hardy, Canada",earthquake,7.2,1.9,0.039,63,reviewed,us,us
+2018-10-23T23:07:38.680Z,49.1768,-129.5261,10,4,mb,,172,1.719,0.8,us,us1000hgbt,2019-01-10T17:18:34.040Z,"227km SW of Port Hardy, Canada",earthquake,7.9,2,0.098,28,reviewed,us,us
+2018-10-22T16:27:00.900Z,49.0689,-128.9922,10,5.2,mww,,80,1.668,1.01,us,us1000hfn8,2019-01-10T17:18:33.040Z,"213km SSW of Port Hardy, Canada",earthquake,6.8,1.9,0.04,60,reviewed,us,us
+2018-10-22T14:00:00.670Z,49.3069,-129.4995,10,4.6,mb,,163,1.6,0.79,us,us1000hflf,2019-01-10T17:18:33.040Z,"214km SW of Port Hardy, Canada",earthquake,7,1.9,0.035,237,reviewed,us,us
+2018-10-22T13:42:19.090Z,49.2969,-129.209,10,4.3,mb,,165,1.513,0.89,us,us1000hflb,2019-01-10T17:18:33.040Z,"201km SW of Port Hardy, Canada",earthquake,8.5,2,0.049,116,reviewed,us,us
+2018-10-22T13:25:02.790Z,49.3578,-129.5534,10,4.2,mb,,170,1.577,1.06,us,us1000hfl5,2019-01-10T17:18:33.040Z,"213km SW of Port Hardy, Canada",earthquake,8.9,2,0.044,146,reviewed,us,us
+2018-10-22T08:43:21.450Z,49.3023,-129.39,10,4.4,mb,,156,1.566,1.05,us,us1000hfis,2019-01-10T17:18:33.040Z,"210km SW of Port Hardy, Canada",earthquake,5.4,1.9,0.033,263,reviewed,us,us
+2018-10-22T07:13:08.340Z,49.1773,-128.8393,10,4.3,mb,,92,1.534,0.98,us,us1000hfhp,2019-01-10T17:18:33.040Z,"197km SSW of Port Hardy, Canada",earthquake,3.9,1.9,0.044,149,reviewed,us,us
+2018-10-22T06:48:51.160Z,49.5838,-129.6508,10,4.1,mb,,175,1.439,0.99,us,us1000hh2q,2019-01-10T17:18:36.040Z,"202km SW of Port Hardy, Canada",earthquake,8.8,2,0.234,5,reviewed,us,us
+2018-10-22T06:36:07.090Z,49.3296,-129.6659,10,4.9,mb,,85,1.643,0.93,us,us1000hfhb,2019-01-10T17:18:33.040Z,"221km SW of Port Hardy, Canada",earthquake,6.3,1.8,0.039,209,reviewed,us,us
+2018-10-22T06:31:45.180Z,49.5072,-129.0661,10,4.5,mb,,170,1.283,0.95,us,us1000hh2v,2019-01-10T17:18:36.040Z,"177km SW of Port Hardy, Canada",earthquake,8.4,2,0.11,24,reviewed,us,us
+2018-10-22T06:28:21.000Z,49.4363,-129.3854,10,4.4,mb,,167,1.45,0.98,us,us1000hh2n,2019-01-10T17:18:36.040Z,"198km SW of Port Hardy, Canada",earthquake,6.3,1.8,0.13,17,reviewed,us,us
+2018-10-22T06:22:48.120Z,49.297,-129.7237,10,6.5,mww,,68,1.692,0.71,us,us1000hfh3,2019-01-10T17:18:33.040Z,"227km SW of Port Hardy, Canada",earthquake,3.3,1.7,0.071,19,reviewed,us,us
+2018-10-22T06:16:26.450Z,49.3346,-129.289,10,6.8,mww,,36,1.505,1.09,us,us1000hfgv,2019-01-10T17:18:33.040Z,"202km SW of Port Hardy, Canada",earthquake,6,1.8,0.042,55,reviewed,us,us
+2018-10-22T05:39:39.590Z,49.2586,-129.4124,10,6.5,mww,,63,1.611,0.94,us,us1000hfgn,2019-01-10T17:18:33.040Z,"214km SW of Port Hardy, Canada",earthquake,4.4,1.5,0.046,46,reviewed,us,us
+2018-08-21T13:10:07.490Z,50.8522,-130.1495,10,4.9,mwr,,156,1.298,0.8,us,us1000gel7,2018-11-01T17:50:53.040Z,"193km W of Port Hardy, Canada",earthquake,5.8,1.9,,,reviewed,us,pgc
+2018-08-01T04:13:50.710Z,50.5547,-129.8953,10,4.3,mwr,,162,1.126,0.98,us,us2000gir2,2018-10-16T15:34:16.040Z,"175km W of Port Hardy, Canada",earthquake,8.4,2,0.086,13,reviewed,us,us
+2018-07-02T04:08:10.820Z,51.2095,-131.0083,10,4.1,mwr,,210,1.091,0.9,us,us2000g9gn,2018-09-27T14:03:48.040Z,"226km WSW of Bella Bella, Canada",earthquake,6.5,2,,,reviewed,us,pgc
+2018-05-10T06:36:20.090Z,49.0313,-128.8761,10,4.5,mwr,,162,1.681,0.75,us,us1000e1t4,2018-08-08T15:20:00.040Z,"213km SSW of Port Hardy, Canada",earthquake,5.9,2,,,reviewed,us,pgc
+2018-04-24T17:41:17.850Z,50.6168,-129.883,10,4.3,mwr,,189,1.114,1.29,us,us1000dres,2018-07-25T21:36:26.040Z,"174km W of Port Hardy, Canada",earthquake,4.3,1.9,,,reviewed,us,pgc
+2018-04-03T04:21:17.420Z,49.2457,-128.8585,10,4.4,mwr,,181,1.293,0.8,us,us1000ddgx,2018-06-30T01:11:25.040Z,"191km SSW of Port Hardy, Canada",earthquake,2.8,1.9,,,reviewed,us,pgc
+2018-03-28T04:07:45.100Z,47.5769,-129.032,12.43,3.5,mwr,,255,0.351,0.61,us,us1000dqzg,2018-06-22T21:32:12.040Z,"290km SW of Tofino, Canada",earthquake,5.6,8.4,,,reviewed,us,pgc
+2018-03-16T02:56:20.910Z,48.9633,-129.8448,15.95,4.6,mwr,,185,1.113,0.77,us,us1000d53z,2018-06-11T21:53:47.040Z,"260km SW of Port Hardy, Canada",earthquake,6.4,7.1,,,reviewed,us,pgc
+2018-03-01T18:35:37.950Z,50.8834,-129.8538,10,4.6,mwr,,166,1.119,0.92,us,us2000d9u5,2018-05-27T01:06:07.040Z,"172km W of Port Hardy, Canada",earthquake,8.9,2,,,reviewed,us,pgc
+2018-02-15T23:21:49.690Z,47.688,-128.8475,11.02,3.5,mwr,,203,0.294,1,us,us1000dxky,2018-05-15T06:29:09.040Z,"271km SW of Tofino, Canada",earthquake,5.3,8.2,,,reviewed,us,pgc
+2018-02-15T17:39:38.960Z,47.9238,-128.7435,10,3.3,mwr,,155,0.232,0.94,us,us1000dxkp,2018-05-15T06:29:08.040Z,"250km WSW of Tofino, Canada",earthquake,4,2,,,reviewed,us,pgc
+2018-02-15T12:06:04.320Z,47.7592,-129.0089,13.4,3.7,mwr,,214,0.178,0.89,us,us2000d707,2018-05-15T06:29:08.040Z,"277km WSW of Tofino, Canada",earthquake,5.4,4.3,,,reviewed,us,pgc
+2018-02-15T10:19:28.400Z,47.6801,-129.0374,14.12,3.4,mwr,,244,0.248,0.66,us,us1000dwdu,2018-05-15T06:29:08.040Z,"283km SW of Tofino, Canada",earthquake,4.9,5.9,,,reviewed,us,pgc
+2018-02-15T10:12:23.390Z,47.8466,-129.3523,9.68,3.4,mwr,,243,0.181,0.69,us,us1000dwdm,2018-05-15T06:29:08.040Z,"293km WSW of Tofino, Canada",earthquake,4.8,3.8,,,reviewed,us,pgc
+2018-01-28T08:51:59.270Z,51.0614,-130.6958,10,4.1,mwr,,217,1.272,1.11,us,us2000dvtn,2018-04-20T07:05:33.040Z,"216km SW of Bella Bella, Canada",earthquake,6.3,2,,,reviewed,us,pgc
+2018-01-24T08:15:45.720Z,47.2817,-128.9215,10,2.9,ml,,232,2.977,0.73,us,us2000dvsy,2018-04-20T07:05:16.040Z,"Off the coast of Washington",earthquake,5.1,2,0.105,12,reviewed,us,us
+2018-01-15T05:38:44.430Z,50.5724,-130.0456,16.75,4,mwr,,158,1.22,0.93,us,us2000d5t0,2018-04-10T01:11:40.040Z,"186km W of Port Hardy, Canada",earthquake,5.6,6.2,,,reviewed,us,pgc
+2018-01-14T21:41:22.970Z,50.4562,-130.2932,10,4.3,mwr,,167,1.39,0.89,us,us1000cg8n,2018-04-03T01:40:31.040Z,"205km W of Port Hardy, Canada",earthquake,7.2,2,,,reviewed,us,pgc
+2018-01-14T20:36:07.860Z,50.4516,-130.2249,10,4,mwr,,206,1.347,1.39,us,us2000d0jj,2018-04-03T01:40:31.040Z,"200km W of Port Hardy, Canada",earthquake,6,2,,,reviewed,us,pgc
+2018-01-14T20:25:39.180Z,50.6689,-129.757,10,4.4,mwr,,182,1.034,1.16,us,us2000cjjx,2018-04-03T01:40:31.040Z,"165km W of Port Hardy, Canada",earthquake,5.2,2,,,reviewed,us,pgc
+2018-01-14T19:10:55.150Z,50.6375,-129.8723,10,4.7,mwr,,167,1.107,1.37,us,us2000cjjd,2018-04-03T01:40:31.040Z,"173km W of Port Hardy, Canada",earthquake,3.8,2,,,reviewed,us,pgc
+2018-01-14T18:54:04.660Z,50.6958,-129.8531,10,4.5,mwr,,171,1.095,1.33,us,us2000cjj9,2018-04-03T01:40:31.040Z,"171km W of Port Hardy, Canada",earthquake,4.5,1.8,,,reviewed,us,pgc
+2018-01-10T18:40:05.330Z,50.6107,-130.7692,14.69,4,mwr,,180,1.679,1.34,us,us1000c383,2018-04-03T01:40:25.040Z,"237km W of Port Hardy, Canada",earthquake,8.5,5.3,,,reviewed,us,pgc
+2017-12-17T04:11:10.260Z,50.2535,-129.7614,10,4.7,mwr,,179,1.11,0.91,us,us2000c5cg,2018-03-14T00:58:20.040Z,"173km WSW of Port Hardy, Canada",earthquake,3.4,1.9,,,reviewed,us,pgc
+2017-12-05T22:14:14.060Z,51.3931,-130.8719,10,4.4,mwr,,158,0.923,1.08,us,us1000bmjn,2018-02-28T02:32:27.040Z,"208km WSW of Bella Bella, Canada",earthquake,2.1,2,,,reviewed,us,pgc
+2017-12-04T03:51:44.180Z,50.595,-129.9469,10,4.8,mwr,,156,1.156,1.1,us,us1000bks1,2018-02-28T02:32:25.040Z,"179km W of Port Hardy, Canada",earthquake,6.7,1.9,0.078,16,reviewed,us,us
+2017-11-21T09:47:09.380Z,49.3777,-129.5926,10,4.9,mwr,,168,1.576,1.46,us,us2000bs8b,2018-02-14T02:01:08.040Z,"214km SW of Port Hardy, Canada",earthquake,5.6,1.9,,,reviewed,us,pgc
+2017-11-13T18:37:32.990Z,49.5463,-129.3459,10,4.5,mwr,,177,1.345,0.99,us,us2000bmsh,2018-02-06T02:45:32.040Z,"188km SW of Port Hardy, Canada",earthquake,5.1,2,,,reviewed,us,pgc
+2017-09-28T07:48:04.560Z,50.7781,-130.2348,10,4.4,mwr,,171,1.343,1.25,us,us2000avt1,2017-12-22T21:56:26.040Z,"198km W of Port Hardy, Canada",earthquake,5,2,,,reviewed,us,pgc
+2017-09-24T22:00:45.690Z,48.9803,-129.4613,16.5,3.9,mwr,,164,1.038,0.93,us,us2000au1z,2017-12-22T21:56:20.040Z,"241km SW of Port Hardy, Canada",earthquake,6.4,3.6,,,reviewed,us,pgc
+2017-07-29T14:15:15.430Z,51.2794,-130.8997,10,4.2,mwr,,178,1.032,0.85,us,us2000a40e,2017-10-14T00:19:45.040Z,"215km WSW of Bella Bella, Canada",earthquake,3.2,2,,,reviewed,us,pgc
+2017-06-30T18:05:20.560Z,50.5634,-130.1603,17.43,4.1,mwr,,195,1.294,1.14,us,us100095lz,2017-09-27T02:03:20.040Z,"194km W of Port Hardy, Canada",earthquake,7.1,7.3,,,reviewed,us,pgc
+2017-06-23T02:08:58.520Z,47.6007,-128.2547,10,3.8,mwr,,179,0.372,1.15,us,us20009p6c,2017-08-23T16:35:47.040Z,"245km SW of Tofino, Canada",earthquake,5.9,2,,,reviewed,us,pgc
+2017-06-10T20:38:18.560Z,50.6602,-130.0913,10,4.8,mwr,,115,1.246,0.9,us,us20009lss,2017-08-16T02:42:23.040Z,"188km W of Port Hardy, Canada",earthquake,5.3,1.8,0.065,23,reviewed,us,us
+2017-06-08T05:51:15.170Z,47.667,-128.852,10,3.4,mwr,,,,0.72,us,us2000a78l,2017-08-16T02:42:20.040Z,"273km SW of Tofino, Canada",earthquake,2,1.9,,,reviewed,pgc,pgc
+2017-05-22T21:33:14.050Z,47.3929,-128.3119,10,3.1,mwr,,173,0.526,1.17,us,us10008v64,2017-08-10T01:33:58.040Z,"264km SW of Tofino, Canada",earthquake,6.1,2,,,reviewed,us,pgc
+2017-05-19T12:25:49.760Z,47.6329,-128.0692,10,2.9,mwr,,260,2.095,0.32,us,us2000a2yc,2017-08-05T03:32:12.040Z,"232km SW of Tofino, Canada",earthquake,4,2,,,reviewed,us,pgc
+2017-05-19T12:09:14.580Z,47.658,-128.0232,10,4.3,mwr,,141,1.987,0.91,us,us10008tjc,2017-08-05T03:32:12.040Z,"228km SW of Tofino, Canada",earthquake,6.3,2,0.06,27,reviewed,us,us
+2017-05-15T03:30:16.180Z,47.5731,-128.9961,10,3.6,mwr,,195,0.382,0.83,us,us10008sxh,2017-08-05T03:32:07.040Z,"288km SW of Tofino, Canada",earthquake,3.4,2,,,reviewed,us,pgc
+2017-05-08T09:43:39.700Z,47.3557,-129.1803,10,3.3,mwr,,243,0.596,0.7,us,us2000a1ka,2017-08-01T23:02:11.040Z,"Off the coast of Washington",earthquake,5.8,2,,,reviewed,us,pgc
+2017-05-07T20:05:33.150Z,50.792,-130.0603,12.8,4.4,mwr,,188,1.234,1.6,us,us10008qcc,2017-08-01T23:02:10.040Z,"186km W of Port Hardy, Canada",earthquake,4.2,3.6,,,reviewed,us,pgc
+2017-03-29T18:00:00.850Z,52.8991,-132.4098,10,4.1,mb,,160,0.306,0.83,us,us10008d40,2017-06-16T23:08:02.040Z,"125km S of Masset, Canada",earthquake,4.5,1.9,0.114,23,reviewed,us,us
+2017-03-07T15:50:57.180Z,49.3435,-129.3443,10,4,mb,,163,1.515,0.78,us,us100087ha,2017-05-31T01:58:57.040Z,"204km SW of Port Hardy, Canada",earthquake,5.2,1.9,0.075,48,reviewed,us,us
+2017-02-28T23:58:10.190Z,50.5947,-130.0972,10,4.2,mwr,,197,1.252,0.79,us,us100087dy,2017-05-24T02:48:11.040Z,"189km W of Port Hardy, Canada",earthquake,4.1,2,,,reviewed,us,pgc
+2017-02-28T23:57:35.220Z,50.5241,-130.2077,10,4.2,mwr,,202,1.327,1.18,us,us100085un,2017-05-24T02:48:11.040Z,"198km W of Port Hardy, Canada",earthquake,2.1,2,,,reviewed,us,pgc
+2017-02-24T12:28:24.830Z,49.6697,-129.1491,10,5.2,mww,,140,1.171,0.94,us,us20008m0k,2017-05-17T01:19:38.040Z,"168km SW of Port Hardy, Canada",earthquake,3.7,1.7,,,reviewed,us,us
+2017-02-23T06:29:21.150Z,49.5603,-129.4659,10,4.5,mwr,,179,1.38,0.77,us,us20008lpj,2017-05-17T01:19:36.040Z,"193km SW of Port Hardy, Canada",earthquake,5.1,1.8,,,reviewed,us,pgc
+2017-02-23T06:04:58.100Z,49.7062,-129.2457,10,5.1,mww,,154,1.177,0.73,us,us20008lph,2017-05-17T01:19:36.040Z,"170km SW of Port Hardy, Canada",earthquake,7.9,1.9,0.039,64,reviewed,us,us
+2017-02-12T03:47:40.170Z,49.3075,-129.3552,10,5,mwr,,164,1.55,1.35,us,us20008j9n,2017-05-13T01:03:17.040Z,"207km SW of Port Hardy, Canada",earthquake,5.5,1.9,,,reviewed,us,pgc
+2017-01-07T06:32:36.530Z,50.08,-130.1524,10,4.6,mwr,,172,1.409,1.08,us,us10007rty,2017-03-27T23:53:26.040Z,"206km WSW of Port Hardy, Canada",earthquake,7.9,2,,,reviewed,us,pgc
+2017-01-07T03:23:57.030Z,50.0125,-130.1366,10,4.6,mwr,,189,1.429,0.84,us,us10007vav,2017-03-27T23:53:25.040Z,"207km WSW of Port Hardy, Canada",earthquake,8.9,2,,,reviewed,us,pgc
+2017-01-07T03:17:40.640Z,50.0673,-130.2458,10,4.8,mwr,,178,1.469,1.13,us,us10007v7i,2017-03-27T23:53:25.040Z,"212km WSW of Port Hardy, Canada",earthquake,4.2,2,,,reviewed,us,pgc
+2017-01-07T03:13:54.320Z,50.2065,-130.1516,10,5.4,mww,,94,1.362,0.67,us,us10007rsx,2017-03-27T23:53:25.040Z,"201km WSW of Port Hardy, Canada",earthquake,6.7,1.8,,,reviewed,us,us
+2017-01-07T03:11:57.580Z,50.5164,-129.9196,10,4.2,mwr,,188,1.145,0.84,us,us10007v7h,2017-03-27T23:53:25.040Z,"178km W of Port Hardy, Canada",earthquake,6.2,2,,,reviewed,us,pgc
+2017-01-06T21:05:30.970Z,50.2805,-129.7803,10,4.4,mwr,,167,1.112,0.9,us,us10007rrk,2017-03-27T23:53:25.040Z,"173km WSW of Port Hardy, Canada",earthquake,3.4,2,,,reviewed,us,pgc
+2017-01-06T16:52:22.750Z,50.2529,-129.8802,10,4.6,mwr,,163,1.182,1.33,us,us10007rqu,2017-03-27T23:53:25.040Z,"181km WSW of Port Hardy, Canada",earthquake,6,1.9,,,reviewed,us,pgc
+2017-01-06T16:42:15.200Z,50.3901,-129.8836,10,3.9,mwr,,170,1.145,1.39,us,us10007rqr,2017-03-27T23:53:25.040Z,"177km W of Port Hardy, Canada",earthquake,7.8,2,,,reviewed,us,pgc
+2017-01-06T15:48:59.140Z,50.1607,-130.0753,10,5.3,mww,,137,1.332,1.26,us,us10007rnp,2017-03-27T23:53:25.040Z,"197km WSW of Port Hardy, Canada",earthquake,3.3,1.8,,,reviewed,us,us
+2016-11-25T04:02:23.050Z,50.9767,-130.3771,10,4.5,mwr,,162,1.414,1.29,us,us10007c7n,2017-02-23T00:11:46.040Z,"204km SW of Bella Bella, Canada",earthquake,8,2,,,reviewed,us,pgc
+2016-09-17T22:45:58.590Z,49.0783,-128.9674,10,4.5,mwr,,167,2.287,0.76,us,us10006qix,2016-12-12T23:01:28.040Z,"211km SSW of Port Hardy, Canada",earthquake,7.7,1.9,,,reviewed,us,pgc
+2016-09-16T19:46:52.920Z,51.5979,-130.6498,10,4.9,mwr,,140,0.774,1.14,us,us10006q8s,2016-12-12T23:01:26.040Z,"185km WSW of Bella Bella, Canada",earthquake,5,1.9,,,reviewed,us,pgc
+2016-08-26T07:19:11.140Z,51.2231,-130.7823,10,4.4,mwr,,,,1.03,us,us20006u56,2016-11-29T01:28:40.040Z,"211km WSW of Bella Bella, Canada",earthquake,9.1,2,,,reviewed,pgc,pgc
+2016-08-09T14:39:11.370Z,50.4018,-129.8461,4.72,4.7,mwr,,168,1.118,0.71,us,us10006ccx,2016-10-26T03:10:24.040Z,"175km W of Port Hardy, Canada",earthquake,6.6,5.3,,,reviewed,us,pgc
+2016-05-09T01:58:01.930Z,52.6512,-132.098,10,4.2,mb,,142,0.224,1.34,us,us10005fyw,2016-07-20T18:10:49.040Z,"151km S of Masset, Canada",earthquake,3.9,1.8,0.04,172,reviewed,us,us
+2016-05-07T05:25:25.800Z,47.7273,-128.5024,10,4.3,mb,,166,2.354,1.26,us,us10005fp2,2016-07-20T18:10:46.040Z,"249km SW of Tofino, Canada",earthquake,7.8,2,0.075,51,reviewed,us,us
+2016-05-07T00:53:08.210Z,47.6868,-128.6444,10,4,mb,,197,2.456,0.55,us,us10005h6l,2016-07-20T18:10:46.040Z,"260km SW of Tofino, Canada",earthquake,10,2,0.144,13,reviewed,us,us
+2016-05-07T00:34:02.440Z,47.7867,-128.5459,10,4,mb,,176,2.347,0.74,us,us10005h6k,2016-07-20T18:10:46.040Z,"247km SW of Tofino, Canada",earthquake,6.5,2,0.129,16,reviewed,us,us
+2016-05-06T22:06:31.080Z,47.7029,-128.5779,10,3.3,ml,,221,2.41,0.89,us,us10005efr,2016-07-20T18:10:46.040Z,"255km SW of Tofino, Canada",earthquake,9.2,2,0.049,54,reviewed,us,us
+2016-03-18T22:46:56.830Z,49.673,-129.8485,10,5.5,mww,,70,1.467,0.68,us,us20005awl,2016-11-10T22:14:38.063Z,"207km WSW of Port Hardy, Canada",earthquake,5.6,1.8,,,reviewed,us,us
+2016-03-05T18:38:31.770Z,49.6418,-129.3399,11.61,4.4,mwr,,168,2.602,1.1,us,us10004uxx,2016-05-16T18:01:44.040Z,"180km SW of Port Hardy, Canada",earthquake,8.4,5.8,,,reviewed,us,pgc
+2016-03-05T18:37:59.840Z,49.5866,-129.3512,10,4.2,mwr,,165,1.314,1.11,us,us10004uxu,2016-05-16T18:01:44.040Z,"185km SW of Port Hardy, Canada",earthquake,7.5,1.9,,,reviewed,us,pgc
+2016-02-04T08:02:55.910Z,47.5285,-129.0826,10,3.8,mwr,,,,0.7,us,us10004t9u,2016-04-14T22:51:44.040Z,"296km SW of Tofino, Canada",earthquake,14.7,2,,,reviewed,pgc,pgc
+2016-02-03T14:55:37.170Z,47.5826,-128.8692,10,3.7,mwr,,262,2.792,0.38,us,us10004sut,2016-04-14T22:51:42.040Z,"280km SW of Tofino, Canada",earthquake,10.6,2,,,reviewed,us,pgc
+2016-01-28T21:22:52.100Z,47.6028,-128.9113,10,3.8,mwr,,156,0.368,0.77,us,us10004stp,2016-04-08T23:06:19.040Z,"281km SW of Tofino, Canada",earthquake,4.3,2,,,reviewed,us,pgc
+2016-01-27T21:46:13.860Z,47.9374,-128.9133,10,3.9,mwr,,130,0.125,1.09,us,us20004v63,2016-04-08T23:06:18.040Z,"260km WSW of Tofino, Canada",earthquake,6.4,2,,,reviewed,us,pgc
+2016-01-27T21:44:32.230Z,47.836,-128.8291,10,4,mwr,,149,0.213,1.11,us,us20004wby,2016-04-08T23:06:18.040Z,"261km WSW of Tofino, Canada",earthquake,6.5,2,,,reviewed,us,pgc
+2016-01-27T19:03:22.110Z,47.8462,-128.9252,10,3.6,mb,,230,3.03,0.56,us,us20004wc7,2016-04-08T23:06:18.040Z,"266km WSW of Tofino, Canada",earthquake,6.1,2,0.501,1,reviewed,us,us
+2016-01-19T19:54:41.850Z,48.8975,-128.6422,10,4.4,mwr,,163,1.775,1.37,us,us10004fp1,2016-11-10T22:09:09.341Z,"202km W of Tofino, Canada",earthquake,7.1,1.9,0.073,18,reviewed,us,us
+2016-01-10T03:59:22.030Z,49.0185,-128.4346,10,3.7,mwr,,169,1.848,1.15,us,us10004d8l,2016-03-30T02:27:52.040Z,"185km W of Tofino, Canada",earthquake,4.1,2,,,reviewed,us,pgc
+2015-12-26T03:57:03.000Z,50.479,-130.191,10,4.3,mwr,,,,1.29,us,us100049ky,2016-03-18T01:13:01.040Z,"197km W of Port Hardy, Canada",earthquake,5.9,1.9,,,reviewed,pgc,pgc
+2015-12-16T08:22:30.560Z,50.5434,-130.3506,10,4.5,mwr,,,,1.39,us,us20004hil,2016-03-05T01:42:09.040Z,"208km W of Port Hardy, Canada",earthquake,9,2,,,reviewed,pgc,pgc
+2015-11-24T07:35:59.460Z,51.399,-131.3219,10,4,mwr,,,,1.33,us,us1000439q,2016-02-18T04:48:52.040Z,"236km WSW of Bella Bella, Canada",earthquake,5.4,6,,,reviewed,pgc,pgc
+2015-11-23T04:13:55.930Z,51.3713,-131.472,10,4.8,mwr,,,,1.61,us,us100040fr,2016-11-10T22:01:47.815Z,"247km WSW of Bella Bella, Canada",earthquake,6.1,2,,,reviewed,pgc,pgc
+2015-11-22T06:43:42.640Z,51.6651,-131.0669,10,4.5,mwr,,,,0.99,us,us100040a5,2016-02-18T04:48:48.040Z,"210km WSW of Bella Bella, Canada",earthquake,8.7,2,,,reviewed,pgc,pgc
+2015-11-22T06:02:42.540Z,51.6976,-131.0657,10,4.5,mwr,,,,0.99,us,us100040a1,2016-02-18T04:48:48.040Z,"209km WSW of Bella Bella, Canada",earthquake,8.6,2,,,reviewed,pgc,pgc
+2015-10-22T23:07:38.970Z,50.8008,-129.9621,10,5.1,mww,,139,1.173,0.94,us,us10003qur,2016-11-10T21:56:54.971Z,"179km W of Port Hardy, Canada",earthquake,5.1,1.9,,,reviewed,us,us
+2015-09-24T13:48:58.480Z,50.7832,-130.2084,10,5.7,mww,,77,1.326,1.39,us,us20003nmz,2016-11-10T21:53:33.894Z,"197km W of Port Hardy, Canada",earthquake,2.8,1.8,,,reviewed,us,us
+2015-09-22T13:24:50.520Z,50.3258,-130.2273,10,4.7,mwr,,162,1.374,0.93,us,us20003mvq,2016-11-10T21:53:22.101Z,"203km W of Port Hardy, Canada",earthquake,5.3,2,,,reviewed,us,pgc
+2015-09-19T21:50:31.150Z,49.4227,-129.6481,10,4.8,mwr,,164,1.561,0.83,us,us20003m0m,2016-11-10T21:52:55.440Z,"213km SW of Port Hardy, Canada",earthquake,6.4,1.9,,,reviewed,us,pgc
+2015-09-08T09:38:04.180Z,50.7444,-130.1086,13.97,4.5,mwr,,165,1.26,1.33,us,us20003h7l,2015-12-05T01:40:36.040Z,"189km W of Port Hardy, Canada",earthquake,7.5,6.4,,,reviewed,us,pgc
+2015-09-07T11:26:08.430Z,47.6135,-128.8421,13.8,3.1,mwr,,205,0.377,1.05,us,us10003mei,2015-12-05T01:40:34.040Z,"276km SW of Tofino, Canada",earthquake,5,6.5,,,reviewed,us,pgc
+2015-08-30T15:12:51.000Z,51.088,-130.745,10,4.3,mwr,,,,1.09,us,us10003kpc,2015-12-01T00:36:04.040Z,"217km WSW of Bella Bella, Canada",earthquake,8.1,2,,,reviewed,pgc,pgc
+2015-08-17T07:58:32.420Z,49.0289,-128.6959,24.08,4.7,mwr,,152,1.271,0.89,us,us100032sm,2015-11-17T00:13:33.040Z,"204km W of Tofino, Canada",earthquake,6.8,5.3,,,reviewed,us,pgc
+2015-07-31T17:45:09.260Z,50.6463,-130.0618,2.95,4.4,mwr,,139,1.965,1.23,us,us10002wy3,2015-10-30T02:47:40.040Z,"186km W of Port Hardy, Canada",earthquake,7.6,5.2,,,reviewed,us,pgc
+2015-07-31T17:24:35.810Z,50.6611,-130.0604,12.63,3.9,mwr,,142,1.952,1.1,us,us10002wxw,2015-10-30T02:47:40.040Z,"186km W of Port Hardy, Canada",earthquake,8.6,5.2,,,reviewed,us,pgc
+2015-07-30T00:31:03.670Z,50.5581,-130.0918,10,5,mwr,,,,0.92,us,us10002w8x,2015-10-30T02:47:36.040Z,"189km W of Port Hardy, Canada",earthquake,5.5,1.8,,,reviewed,pgc,pgc
+2015-07-29T23:30:58.300Z,50.6542,-129.9433,10,4.1,mwr,,168,1.152,0.96,us,us10002w8u,2015-10-22T20:05:15.040Z,"178km W of Port Hardy, Canada",earthquake,6.3,1.9,,,reviewed,us,pgc
+2015-07-29T00:24:17.470Z,47.6195,-128.8926,10,3.3,mwr,,217,0.357,0.78,us,us1000367p,2015-10-22T20:05:12.040Z,"279km SW of Tofino, Canada",earthquake,3,2,,,reviewed,us,pgc
+2015-07-25T03:56:43.320Z,49.3922,-129.619,10,3.5,mwr,,183,2.954,0.96,us,us100031yj,2015-10-22T20:04:57.040Z,"214km SW of Port Hardy, Canada",earthquake,9.6,2,,,reviewed,us,pgc
+2015-07-03T07:25:45.000Z,49.07,-129.726,10,3.8,mwr,,,,1.31,us,us10002n71,2015-09-30T00:20:53.040Z,"245km SW of Port Hardy, Canada",earthquake,9.2,1.9,,,reviewed,pgc,pgc
+2015-06-04T03:17:51.000Z,49.026,-129.812,10,3.9,mwr,,,,0.34,us,us20002lxa,2015-08-10T13:08:19.040Z,"253km SW of Port Hardy, Canada",earthquake,8.6,2,,,reviewed,pgc,pgc
+2015-05-16T09:01:08.230Z,51.611,-131.012,10,4.4,mwr,,,,0.87,us,us10002kng,2015-07-23T01:04:02.040Z,"208km WSW of Bella Bella, Canada",earthquake,4.6,2,,,reviewed,pgc,pgc
+2015-04-24T17:50:32.000Z,51.479,-130.961,18.5,4.1,mwr,,,,2.04,us,us200028x5,2015-07-03T00:23:38.040Z,"210km WSW of Bella Bella, Canada",earthquake,10.5,5.4,0.098,10,reviewed,pgc,us
+2015-04-24T15:56:18.330Z,51.2737,-130.9946,10,4.1,ml,,189,2.01,1.33,us,us20002afk,2015-07-03T00:23:38.040Z,"222km WSW of Bella Bella, Canada",earthquake,6.6,2,0.128,8,reviewed,us,us
+2015-04-24T14:09:32.480Z,51.6381,-130.894,21.37,4.6,mb,,165,1.504,1.24,us,us20002afg,2015-07-03T00:23:38.040Z,"199km WSW of Bella Bella, Canada",earthquake,2.4,6.7,0.244,5,reviewed,us,us
+2015-04-24T13:56:15.180Z,51.6148,-130.7714,8,6.2,mww,,69,1.743,1.24,us,us200028ue,2016-11-10T21:47:13.605Z,"192km WSW of Bella Bella, Canada",earthquake,4.6,1.8,,,reviewed,us,us
+2015-03-31T08:41:46.410Z,50.5408,-129.3002,10,3.9,mwr,,,,0.82,us,us200029br,2015-06-12T01:53:31.040Z,"134km W of Port Hardy, Canada",earthquake,4.1,2,,,reviewed,pgc,pgc
+2015-03-25T19:22:44.560Z,49.4154,-128.1719,13.08,5.1,mww,,100,2.773,0.68,us,us10001qpf,2015-06-09T21:30:07.040Z,"152km SSW of Port Hardy, Canada",earthquake,6.7,4.2,,,reviewed,us,us
+2015-03-16T18:05:38.480Z,49.3037,-129.5842,10,3.8,mwr,,154,3.032,1.31,us,us10001mte,2015-06-04T00:46:23.040Z,"219km SW of Port Hardy, Canada",earthquake,9.1,2,,,reviewed,us,pgc
+2015-03-08T20:42:15.680Z,49.0507,-128.8594,27.56,4.9,mwr,,152,3.173,1.1,us,usc000twl9,2015-05-28T00:48:38.040Z,"210km SSW of Port Hardy, Canada",earthquake,7.6,5.8,,,reviewed,us,pgc
+2015-03-06T16:56:38.860Z,50.538,-130.4747,10,4.4,mwr,,157,2.216,1.06,us,us200026hw,2015-05-28T00:48:35.040Z,"216km W of Port Hardy, Canada",earthquake,9.2,2,,,reviewed,us,pgc
+2015-03-04T08:35:07.120Z,50.2697,-129.92,8.65,5.1,mwr,,152,2.228,1.13,us,usc000tuv5,2015-05-19T00:30:00.040Z,"183km WSW of Port Hardy, Canada",earthquake,8.3,4.4,,,reviewed,us,pgc
+2015-02-23T12:03:18.000Z,50.436,-130.143,10,3.3,mwr,,,,0.68,us,usc000tshu,2015-05-12T20:29:41.040Z,"195km W of Port Hardy, Canada",earthquake,6.7,2,,,reviewed,pgc,pgc
+2015-02-23T11:47:11.110Z,50.7018,-129.8916,10,4,mb,,201,1.855,0.65,us,usc000tsg1,2015-05-12T20:29:41.040Z,"174km W of Port Hardy, Canada",earthquake,11,2,0.156,11,reviewed,us,us
+2015-02-19T05:19:39.550Z,49.1961,-128.707,10,3.8,mwr,,180,3.016,0.73,us,usc000tre0,2015-05-12T20:29:32.040Z,"191km SSW of Port Hardy, Canada",earthquake,4.2,2,,,reviewed,us,pgc
+2015-01-25T21:10:12.050Z,52.5619,-131.9669,17.56,4.5,mwr,,,,0.76,us,usc000tiza,2015-04-24T16:55:33.040Z,"162km S of Masset, Canada",earthquake,7.9,5.3,,,reviewed,pgc,pgc
+2015-01-19T04:00:55.310Z,49.4961,-128.9988,23.12,3.9,mwr,,190,2.75,1.44,us,usc000tk19,2015-04-20T16:05:35.040Z,"175km SW of Port Hardy, Canada",earthquake,10.2,8.1,,,reviewed,us,pgc
+2015-01-04T01:49:55.840Z,50.579,-130.454,10,4.5,mwr,,,,1.39,us,usc000tbip,2015-03-27T07:01:35.040Z,"215km W of Port Hardy, Canada",earthquake,5.3,1.5,,,reviewed,pgc,pgc
+2015-01-02T10:15:34.380Z,50.8632,-130.3654,10,5.4,mwr,,76,1.523,1.33,us,usc000tb91,2016-11-10T21:45:58.811Z,"208km W of Port Hardy, Canada",earthquake,6,1.8,,,reviewed,us,pgc
+2014-12-30T12:57:22.770Z,51.3227,-131.2469,10,4.5,mwr,,,,1.67,us,usc000tas9,2015-03-17T02:38:08.040Z,"235km WSW of Bella Bella, Canada",earthquake,8.1,6.9,,,reviewed,pgc,pgc
+2014-12-22T21:01:06.380Z,50.9022,-130.1266,10,4.6,mwr,,173,1.293,1.45,us,usc000t97l,2015-03-06T02:59:11.040Z,"192km W of Port Hardy, Canada",earthquake,6.5,2,,,reviewed,us,pgc
+2014-12-22T06:51:37.410Z,50.746,-130.525,10,4.5,mwr,,,,1.14,us,usc000t91d,2015-03-06T02:59:09.040Z,"219km W of Port Hardy, Canada",earthquake,9.8,2,,,reviewed,pgc,pgc
+2014-12-21T10:45:44.220Z,51.0327,-130.2433,10,4.7,mwr,,,,1.03,us,usc000t8vh,2015-03-06T02:59:07.040Z,"193km SW of Bella Bella, Canada",earthquake,5.9,1.9,,,reviewed,pgc,pgc
+2014-12-21T10:19:45.450Z,50.7373,-130.4995,10,4.3,mwr,,,,1.9,us,usc000t8ve,2015-03-06T02:59:07.040Z,"217km W of Port Hardy, Canada",earthquake,6.7,2,,,reviewed,pgc,pgc
+2014-12-21T09:40:47.000Z,50.79,-130.52,10,5.2,mwr,,,,1.11,us,usc000t8vb,2015-03-06T02:59:07.040Z,"219km W of Port Hardy, Canada",earthquake,3.8,1.9,,,reviewed,pgc,pgc
+2014-12-21T07:35:48.120Z,50.7493,-130.4889,10,4,mwr,,,,0.6,us,usc000tcuf,2015-03-06T02:59:07.040Z,"216km W of Port Hardy, Canada",earthquake,5.9,2,,,reviewed,pgc,pgc
+2014-12-21T02:57:38.130Z,50.959,-130.194,10,5.2,mwr,,,,0.75,us,usc000t8tf,2015-03-06T02:59:06.040Z,"196km SW of Bella Bella, Canada",earthquake,5,1.9,,,reviewed,pgc,pgc
+2014-12-20T22:54:28.420Z,50.7361,-130.4872,10,4.7,mwr,,,,1.47,us,usc000t8s0,2015-03-06T02:59:06.040Z,"216km W of Port Hardy, Canada",earthquake,6.7,1.9,,,reviewed,pgc,pgc
+2014-12-20T21:36:32.040Z,50.722,-130.4937,10,4.4,mwr,,,,1.64,us,usc000tcrs,2015-03-06T02:59:06.040Z,"217km W of Port Hardy, Canada",earthquake,4.4,2,,,reviewed,pgc,pgc
+2014-12-12T06:08:09.310Z,48.8697,-129.2989,10,4.7,mwr,,,,0.99,us,usc000t5vm,2015-03-04T21:54:59.040Z,"244km SW of Port Hardy, Canada",earthquake,5.5,2.3,,,reviewed,pgc,pgc
+2014-10-12T10:09:50.460Z,49.2029,-128.9566,10,3.7,mwr,,148,1.227,1.32,us,usb000sl9e,2015-01-31T04:59:49.643Z,"199km SW of Port Hardy, Canada",earthquake,5.8,2,,,reviewed,us,pgc
+2014-09-27T21:05:38.000Z,52.701,-132.309,23.3,4.7,mwr,,,,1.52,us,usb000sgs2,2014-12-20T00:54:00.040Z,"147km S of Masset, Canada",earthquake,5.7,1.8,,,reviewed,pgc,pgc
+2014-09-10T16:36:43.150Z,50.677,-129.8483,10,4.9,mwr,,161,1.859,1.05,us,usb000sb4f,2014-12-08T23:30:56.040Z,"171km W of Port Hardy, Canada",earthquake,8.7,1.9,,,reviewed,us,pgc
+2014-08-18T08:17:44.470Z,50.498,-130.215,10,4.5,mwr,,,,1.57,us,usb000s3q3,2014-11-15T04:07:15.000Z,"199km W of Port Hardy, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2014-08-12T07:00:22.410Z,50.546,-130.445,10,4.5,mwr,,,,1.8,us,usb000s22x,2014-11-07T21:47:41.000Z,"214km W of Port Hardy, Canada",earthquake,,2,,,reviewed,pgc,pgc
+2014-05-02T11:25:15.960Z,49.6532,-128.5969,10,3.9,mwr,,152,0.734,0.63,us,usb000q6xp,2014-07-27T21:51:17.000Z,"143km SW of Port Hardy, Canada",earthquake,,2,,,reviewed,us,pgc
+2014-04-25T05:12:38.860Z,52.7572,-132.1841,23.44,4.2,mwr,,,,1.85,us,usb000pyv4,2014-07-14T20:11:15.000Z,"140km S of Masset, Canada",earthquake,,5.3,,,reviewed,pgc,pgc
+2014-04-06T00:44:39.000Z,49.99,-130.201,10,4.2,mwr,,,,1.11,us,usc000p76p,2014-06-11T06:06:10.000Z,"213km WSW of Port Hardy, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2014-04-01T05:05:57.990Z,49.2167,-129.2085,10,4.7,mwr,,149,1.325,1.24,us,usc000nycn,2014-05-29T23:32:12.000Z,"208km SW of Port Hardy, Canada",earthquake,,1.2,0.065,23,reviewed,us,us
+2014-03-26T22:56:45.170Z,52.407,-131.7895,10.28,4.4,mb,,,,1.33,us,usc000ns6r,2014-05-29T23:32:05.000Z,"180km S of Masset, Canada",earthquake,,1.8,0.078,62,reviewed,pgc,us
+2014-02-16T00:19:20.000Z,50.421,-130.262,10,4.5,mwr,,,,1.7,us,usc000mrdf,2014-04-30T21:18:22.000Z,"203km W of Port Hardy, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2014-02-15T21:08:57.000Z,50.461,-130.148,10,4.1,mwr,,,,1.22,us,usc000mra8,2014-04-30T21:18:22.000Z,"195km W of Port Hardy, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2014-02-09T20:27:35.880Z,47.8262,-128.834,9.61,3.5,mwr,,162,0.216,0.9,us,usc000mvl3,2014-04-22T18:30:11.000Z,"262km WSW of Tofino, Canada",earthquake,,1.9,,,reviewed,us,pgc
+2014-02-09T19:47:33.120Z,47.7646,-128.9216,9.97,3.4,mwr,,185,0.219,1.34,us,usc000mvl2,2014-04-22T18:30:11.000Z,"271km WSW of Tofino, Canada",earthquake,,2,,,reviewed,us,pgc
+2014-02-09T15:37:07.790Z,52.7447,-132.2856,14.53,4.2,mb,,,,0.76,us,usc000mlkm,2014-04-22T18:30:11.000Z,"142km S of Masset, Canada",earthquake,,4.9,0.216,7,reviewed,pgc,us
+2013-11-09T17:04:45.030Z,50.2504,-130.0154,10.85,4,mwr,,175,2.276,1.04,us,usb000kv79,2014-01-17T00:29:13.000Z,"190km WSW of Port Hardy, Canada",earthquake,,8.3,,,reviewed,us,pgc
+2013-11-08T11:44:56.150Z,50.039,-130.1887,10,5,mwr,,,,0.97,us,usb000kumz,2014-01-17T00:29:13.000Z,"210km WSW of Port Hardy, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2013-10-23T10:27:06.400Z,52.8392,-131.9805,10,3.9,mwr,,149,0.131,1.18,us,usb000kj48,2014-01-03T00:32:51.000Z,"131km S of Masset, Canada",earthquake,,2,,,reviewed,us,pgc
+2013-09-21T17:49:47.000Z,52.6869,-131.7356,4.6,3.8,mb,,149,0.684,0.95,us,usb000jx74,2013-12-09T21:11:12.000Z,"149km S of Masset, Canada",earthquake,,6.1,0.136,,reviewed,us,us
+2013-09-18T04:45:36.890Z,52.7369,-132.2193,22.3,4.5,mwr,,,,1.82,us,usb000jxpl,2013-12-09T21:11:08.000Z,"142km S of Masset, Canada",earthquake,,1.9,,,reviewed,pgc,pgc
+2013-09-06T00:05:24.000Z,51.043,-130.499,10,4.3,mwr,,,,0.7,us,usb000jjbz,2013-11-15T03:20:25.000Z,"206km SW of Bella Bella, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc
+2013-09-04T15:33:13.480Z,51.0831,-130.5088,10,4.2,mwr,,,,1.67,us,usb000kdsa,2013-11-15T03:20:24.000Z,"204km SW of Bella Bella, Canada",earthquake,,2,,,reviewed,us_pgc,us_pgc
+2013-09-04T15:26:32.000Z,51.052,-130.56,10,4.6,mwr,,,,0.98,us,usb000jh7l,2013-11-15T03:20:24.000Z,"209km SW of Bella Bella, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc
+2013-09-04T12:37:08.400Z,51.06,-130.64,10,4.3,mwr,,,,1.98,us,usc000kma7,2013-11-15T03:20:24.000Z,"213km SW of Bella Bella, Canada",earthquake,,7.5,,,reviewed,us_pgc,us_pgc
+2013-09-04T01:44:11.720Z,50.9949,-130.5932,10,4.3,mwr,,,,1.08,us,usb000jxqg,2013-11-15T03:20:23.000Z,"215km SW of Bella Bella, Canada",earthquake,,7.3,,,reviewed,us_pgc,us_pgc
+2013-09-04T01:19:00.280Z,50.9472,-130.511,21.06,4.9,mwr,,92,1.54,1.25,us,usb000jghi,2013-11-15T03:20:23.000Z,"214km SW of Bella Bella, Canada",earthquake,,3.2,,,reviewed,us,us_pgc
+2013-09-04T00:50:59.530Z,51.0921,-130.1497,10.25,4.6,mwr,,173,1.356,1.19,us,usb000jggv,2013-11-15T03:20:22.000Z,"184km SW of Bella Bella, Canada",earthquake,,3.1,,,reviewed,us,us_pgc
+2013-09-04T00:23:11.290Z,51.1832,-130.2245,9.92,6,mww,,70,1.431,0.87,us,usb000jgfh,2013-11-15T03:20:22.000Z,"182km SW of Bella Bella, Canada",earthquake,,2.5,,,reviewed,us,us
+2013-09-03T23:07:08.410Z,51.186,-130.4766,10.02,4.7,mwr,,149,1.6,1.21,us,usb000jgdk,2013-11-15T03:20:22.000Z,"196km WSW of Bella Bella, Canada",earthquake,,2.9,,,reviewed,us,us_pgc
+2013-09-03T22:29:31.110Z,51.3277,-130.2195,9.85,5.5,mwr,,140,1.565,1.22,us,usb000jgci,2013-11-15T03:59:43.471Z,"172km WSW of Bella Bella, Canada",earthquake,,2.7,,,reviewed,us,us_pgc
+2013-09-03T22:25:46.210Z,51.088,-130.4752,10,4.2,mwr,,,,2.08,us,usb000k9wq,2013-11-15T03:20:22.000Z,"202km SW of Bella Bella, Canada",earthquake,,2,,,reviewed,us_pgc,us_pgc
+2013-09-03T21:25:16.510Z,51.2548,-130.2999,10.15,5.1,mwr,,149,1.503,1.38,us,usb000jg9e,2013-11-15T03:20:22.000Z,"181km WSW of Bella Bella, Canada",earthquake,,2.7,0.063,,reviewed,us,us
+2013-09-03T21:05:56.670Z,51.2359,-130.1714,14.84,4.5,mb,,149,1.421,1.24,us,usb000jg8d,2013-11-15T03:20:22.000Z,"175km SW of Bella Bella, Canada",earthquake,,5.5,0.055,,reviewed,us,us
+2013-09-03T20:19:06.340Z,51.244,-130.3971,2.73,6.1,mww,,44,1.704,0.93,us,usb000jg6b,2015-01-30T12:23:51.580Z,"187km WSW of Bella Bella, Canada",earthquake,,3.7,,,reviewed,us,us
+2013-09-02T12:49:00.410Z,49.3562,-129.4724,10,3.9,mwr,,170,1.364,1.21,us,usb000jf3v,2013-11-06T01:33:40.000Z,"209km SW of Port Hardy, Canada",earthquake,,2,,,reviewed,us,us_pgc
+2013-08-07T01:32:46.770Z,50.4683,-130.3687,10,4,mwr,,,,2.01,us,usb000ix7a,2013-10-12T21:32:30.000Z,"210km W of Port Hardy, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc
+2013-08-04T15:57:44.170Z,50.7777,-129.9112,13.05,3.9,mb,,155,1.802,1.01,us,usb000iv93,2013-09-25T17:45:52.000Z,"176km W of Port Hardy, Canada",earthquake,,4.9,0.089,,reviewed,us,us
+2013-07-27T19:11:01.580Z,50.325,-129.99,21.5,4.6,mwr,128,145,,1.15,us,usc000iqr5,2014-11-07T01:51:20.702Z,"186km WSW of Port Hardy, Canada",earthquake,,6.9,,,reviewed,us,pgc
+2013-07-27T18:48:30.970Z,50.379,-130.15,14.3,3.9,mb,127,153,,0.88,us,usc000iqqu,2014-11-07T01:51:20.690Z,"196km W of Port Hardy, Canada",earthquake,,4.9,,81,reviewed,us,us
+2013-07-26T12:57:24.760Z,50.392,-129.968,10,5.1,mwr,97,72,,0.9,us,usc000ipmt,2015-01-30T15:17:57.533Z,"183km W of Port Hardy, Canada",earthquake,,,,,reviewed,us,pgc
+2013-06-14T15:56:04.320Z,50.758,-130.518,10,4.1,mwr,13,100,,,us,usc000hqrn,2014-11-07T01:51:04.347Z,"207km W of Port Hardy, Canada",earthquake,,,,,reviewed,pgc,pgc
+2013-04-13T09:39:32.810Z,52.791,-132.199,10.4,4.3,mwr,47,144,,1.45,us,usp000k06w,2014-11-07T01:50:33.538Z,"Haida Gwaii, Canada",earthquake,,2,,,reviewed,us,pgc
+2013-03-20T17:21:55.730Z,51.421,-130.443,10,4.3,mwr,68,178.1,,1.03,us,usb000fpmu,2014-11-07T01:50:22.027Z,"165km WSW of Bella Bella, Canada",earthquake,,,,,reviewed,us,pgc
+2013-03-15T02:27:57.950Z,52.309,-132.276,24,4.5,mwr,289,152,,,us,usb000fl7c,2014-11-07T01:50:20.468Z,"190km S of Masset, Canada",earthquake,,,,,reviewed,pgc,pgc
+2013-03-15T00:55:43.530Z,52.426,-132.101,10,4.5,mwr,170,153.7,,1.43,us,usb000fl60,2014-11-07T01:50:20.446Z,"179km S of Masset, Canada",earthquake,,,,,reviewed,us,pgc
+2013-03-15T00:46:52.900Z,52.563,-131.865,10,4.3,mb,85,142.5,,1.29,us,usb000fl5v,2014-11-07T01:50:20.438Z,"211km SSW of Masset, Canada",earthquake,,,,77,reviewed,us,us
+2013-03-15T00:05:00.640Z,52.466,-132.063,10,4.5,mwr,231,135.3,,0.9,us,usb000fl55,2014-11-07T01:50:20.408Z,"173km S of Masset, Canada",earthquake,,,,,reviewed,us,pgc
+2013-02-25T13:41:26.360Z,52.688,-132.25,22.4,4.9,mwr,248,102.3,,,us,us2013mba2,2014-11-07T01:50:11.776Z,"148km S of Masset, Canada",earthquake,,,,,reviewed,pgc,pgc
+2013-02-07T18:15:42.700Z,50.861,-129.282,10,4,mw,7,204.7,,1.2,us,usp000jz55,2014-11-07T01:50:03.804Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2013-01-18T01:42:07.000Z,50.861,-130.709,10,4.3,mwr,57,177.7,,,us,usp000jyhk,2014-11-07T01:49:51.177Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2013-01-09T14:07:38.430Z,49.719,-130.03,10,4.3,mwr,80,145.6,,1.31,us,usp000jy4m,2014-11-07T01:49:48.215Z,"Vancouver Island, Canada region",earthquake,,0,,,reviewed,us,pgc
+2013-01-08T03:34:09.440Z,49.448,-129.035,10,3.9,mw,60,183.6,,0.95,us,usp000jy1g,2014-11-07T01:49:47.530Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2013-01-07T03:33:23.920Z,49.113,-128.74,10,4.5,mwr,173,164.2,,1.25,us,usp000jy0e,2015-03-24T01:37:15.118Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-12-31T02:07:27.520Z,47.917,-128.199,10,3.9,mb,56,190.2,,1.26,us,usp000jxn5,2014-11-07T01:49:41.217Z,"off the coast of Washington",earthquake,,,,24,reviewed,us,us
+2012-12-25T17:39:26.830Z,50.212,-129.806,10,4.1,mb,135,167.6,,1.22,us,usp000jxd7,2014-11-07T01:49:39.663Z,"Vancouver Island, Canada region",earthquake,,,,62,reviewed,us,us
+2012-12-23T19:08:38.630Z,50.743,-129.79,10,4.5,mwr,78,158.8,,1.43,us,usp000jxaz,2015-03-24T02:24:07.725Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-12-18T19:57:11.050Z,52.444,-132.045,10,4.3,mb,204,136.1,,1,us,usp000jx48,2014-11-07T01:49:37.652Z,"Haida Gwaii, Canada",earthquake,,,,108,reviewed,us,us
+2012-12-17T00:35:08.360Z,52.655,-132.108,15.9,4.8,mwr,46,146.1,,,us,usp000jx22,2014-11-07T01:49:37.233Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-12-16T02:50:58.330Z,52.737,-132.049,10,4.6,mwr,27,202,,1.16,us,usp000jx0q,2014-11-07T01:49:36.896Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-12-09T13:04:09.870Z,52.887,-132.406,18.6,4.1,mwr,53,161.5,,1.2,us,usp000jwrd,2014-11-07T01:49:34.743Z,"Haida Gwaii, Canada",earthquake,,8.7,,,reviewed,us,pgc
+2012-12-06T05:28:01.000Z,53,-132.37,10,4.6,mwr,221,140,,0.99,us,usp000jwgx,2014-11-07T01:49:33.135Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-12-04T18:32:00.000Z,52.72,-132.176,20.9,4.2,mwr,37,158.5,,,us,usp000jwf5,2014-11-07T01:49:32.599Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-21T14:46:32.030Z,52.401,-131.826,10,4,mb,62,169.5,,1.17,us,usp000jvx8,2014-11-07T01:49:24.893Z,"Haida Gwaii, Canada",earthquake,,,,40,reviewed,us,us
+2012-11-15T07:05:09.850Z,49.172,-128.785,10,4.3,mb,18,187.1,,1.23,us,usp000jvmc,2014-11-07T01:49:22.977Z,"Vancouver Island, Canada region",earthquake,,,,4,reviewed,us,us
+2012-11-14T03:04:45.010Z,51.829,-130.654,10,4.7,mb,253,146,,1.07,us,usp000jvjr,2014-11-07T01:49:22.586Z,"Haida Gwaii Region, Canada",earthquake,,,,172,reviewed,us,us
+2012-11-13T07:34:19.000Z,52.815,-132.606,10,4.7,mwr,243,139.8,,1.02,us,usp000jvh7,2014-11-07T01:49:22.283Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-13T04:55:45.000Z,52.705,-132.033,22.3,5.1,mwr,454,36.9,,,us,usp000jvgy,2015-03-24T01:34:00.219Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-13T04:46:56.860Z,52.853,-132.623,10,4.1,mb,118,179.2,,1.2,us,usp000jvgx,2014-11-07T01:49:22.162Z,"Haida Gwaii, Canada",earthquake,,,,75,reviewed,us,us
+2012-11-13T04:31:27.720Z,52.9,-132.451,10,4.1,mb,102,179.5,,1.18,us,usp000jvgv,2014-11-07T01:49:22.149Z,"Haida Gwaii, Canada",earthquake,,,,72,reviewed,us,us
+2012-11-12T07:26:01.290Z,52.231,-131.561,10,4.2,mwr,152,176.8,,0.87,us,usp000jvee,2014-11-07T01:49:21.122Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-12T06:50:43.510Z,52.216,-131.503,10,4.3,mwr,150,162.6,,1.07,us,usp000jvec,2014-11-07T01:49:21.107Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-10T06:27:17.880Z,49.415,-128.235,10,4.1,mb,97,172.3,,1.35,us,usp000jva7,2014-11-07T01:49:20.007Z,"Vancouver Island, Canada region",earthquake,,,,43,reviewed,us,us
+2012-11-08T21:07:41.780Z,49.38,-128.137,10,4.7,mwr,153,165.2,,1.4,us,usp000jv80,2015-03-24T02:39:25.273Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-11-08T02:06:09.860Z,49.189,-128.398,10.4,4.4,mw,12,265.2,,0.55,us,usp000jv6m,2014-11-07T01:49:19.437Z,"Vancouver Island, Canada region",earthquake,,15,,,reviewed,us,pgc
+2012-11-08T02:01:50.630Z,49.231,-128.477,13.7,6.1,mww,613,101,,1.17,us,usp000jv6k,2015-06-30T16:59:04.014Z,"Vancouver Island, Canada region",earthquake,,3.3,,,reviewed,us,us
+2012-11-06T15:47:56.740Z,52.678,-132.903,10,4.1,mwr,11,218.7,,1.27,us,usp000jv41,2014-11-07T01:49:18.810Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-06T10:27:02.240Z,52.311,-131.304,8.4,4.7,mwr,313,119.8,,0.75,us,usp000jv3n,2014-11-07T01:49:18.722Z,"Haida Gwaii, Canada",earthquake,,4.1,,,reviewed,us,pgc
+2012-11-04T18:27:17.150Z,52.525,-132.419,10,4.8,mwr,113,143.9,,1.11,us,usp000jv1d,2014-11-07T01:49:18.204Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-04T13:17:11.740Z,52.454,-131.702,10,4,mb,27,176.3,,0.9,us,usp000jv10,2014-11-07T01:49:18.162Z,"Haida Gwaii, Canada",earthquake,,0,,14,reviewed,us,us
+2012-11-04T12:27:32.000Z,52.214,-132.557,5,5.1,mwr,449,36.8,,,us,usp000jv0z,2014-11-07T01:49:18.128Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-04T12:05:12.000Z,51.698,-132.73,1,4.2,ml,8,333.4,,,us,usp000jv0x,2014-11-07T01:49:18.111Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-04T09:14:49.450Z,52.347,-131.303,10,4,mb,87,173.3,,1.05,us,usp000jv0q,2014-11-07T01:49:18.056Z,"Haida Gwaii, Canada",earthquake,,,,63,reviewed,us,us
+2012-11-04T08:55:06.140Z,52.451,-131.787,10,4,mb,127,171.8,,0.91,us,usp000jv0n,2014-11-07T01:49:18.043Z,"Haida Gwaii, Canada",earthquake,,,,75,reviewed,us,us
+2012-11-04T08:51:41.420Z,52.507,-131.597,10,4,mb,88,170.6,,0.81,us,usp000jv0m,2014-11-07T01:49:18.035Z,"Haida Gwaii, Canada",earthquake,,,,54,reviewed,us,us
+2012-11-04T07:42:16.000Z,52.755,-131.776,10,4.5,mwr,186,167.2,,0.98,us,usp000jv0j,2014-11-07T01:49:18.011Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-04T05:07:54.290Z,52.678,-131.667,10,4.3,mwr,104,166.9,,1.06,us,usp000jv0c,2014-11-07T01:49:17.940Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-03T17:49:11.740Z,52.381,-132.332,10,4.5,mwr,163,149.9,,1.1,us,usp000juzg,2014-11-07T01:49:17.760Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-03T17:25:56.050Z,52.548,-132.36,10,4,mb,70,184,,0.93,us,usp000juze,2014-11-07T01:49:17.747Z,"Haida Gwaii, Canada",earthquake,,,,54,reviewed,us,us
+2012-11-03T12:18:42.450Z,52.32,-132.794,10,4.6,mwr,166,137.6,,1.04,us,usp000juz7,2014-11-07T01:49:17.652Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-03T09:48:23.480Z,52.533,-132.647,10,4,mb,117,143.7,,1.27,us,usp000juz1,2014-11-07T01:49:17.601Z,"Haida Gwaii, Canada",earthquake,,,,64,reviewed,us,us
+2012-11-03T04:25:19.800Z,52.522,-132.015,23.1,4.5,mwr,206,78.8,,0.81,us,usp000juyp,2014-11-07T01:49:17.541Z,"Haida Gwaii, Canada",earthquake,,5.6,,,reviewed,us,pgc
+2012-11-02T08:37:10.440Z,52.215,-132.219,10,4.8,mwr,119,180.2,,1.2,us,usp000juxg,2014-11-07T01:49:17.092Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-02T08:19:54.790Z,52.126,-132.337,15.9,5,mwr,299,59.6,,,us,usp000juxd,2014-11-07T01:49:17.018Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-02T07:15:40.520Z,52.192,-131.942,6.1,4.5,mwr,241,79.5,,,us,usp000juxc,2014-11-07T01:49:16.978Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-02T02:54:55.000Z,51.671,-130.855,4.9,4.3,mwr,33,187.2,,,us,usp000jux1,2014-11-07T01:49:16.902Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-11-01T17:34:45.920Z,52.796,-132.57,10,4.4,mw,17,188.9,,1.09,us,usp000juwg,2014-11-07T01:49:16.500Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-11-01T03:27:13.420Z,52.415,-132.189,10.7,4.6,mwr,147,150,,0.89,us,usp000juvc,2014-11-07T01:49:15.464Z,"Haida Gwaii, Canada",earthquake,,4.8,,,reviewed,us,pgc
+2012-11-01T03:16:01.500Z,52.55,-132.024,19.5,5.2,mwr,286,145.1,,0.84,us,usp000juva,2014-11-07T01:49:15.172Z,"Haida Gwaii, Canada",earthquake,,4.1,,,reviewed,us,pgc
+2012-10-31T16:25:27.000Z,52.653,-132.973,10,4,ml,67,170.4,,,us,usp000juur,2014-11-07T01:49:12.325Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-31T04:48:38.080Z,52.366,-132.551,10,4.7,mwr,246,103.4,,,us,usp000juu8,2014-11-07T01:49:12.143Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-30T17:33:29.270Z,52.405,-132.687,10,4.1,mb,68,169.6,,1.52,us,usp000jutr,2014-11-07T01:49:12.067Z,"Haida Gwaii, Canada",earthquake,,,,42,reviewed,us,us
+2012-10-30T15:57:55.000Z,52.4,-132.42,5,4.1,ml,58,154.1,,,us,usp000jutk,2014-11-07T01:49:12.050Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-30T15:20:51.530Z,52.798,-132.667,18.3,4,mb,31,138.7,,1.01,us,usp000juth,2014-11-07T01:49:12.031Z,"Haida Gwaii, Canada",earthquake,,9.7,,4,reviewed,us,us
+2012-10-30T14:10:59.000Z,52.299,-132.227,10,5.1,mwr,256,45.7,,,us,usp000jutd,2014-11-07T01:49:12.009Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-30T04:40:15.380Z,52.195,-131.801,23,5,mwr,310,67.5,,1.16,us,usp000jusc,2014-11-07T01:49:11.810Z,"Haida Gwaii, Canada",earthquake,,4.3,,,reviewed,us,pgc
+2012-10-30T03:59:38.000Z,52.236,-132.368,10,4.2,mb,166,155.3,,,us,usp000jusb,2014-11-07T01:49:11.798Z,"Haida Gwaii, Canada",earthquake,,,,87,reviewed,pgc,us
+2012-10-30T03:51:58.110Z,52.27,-131.854,9.5,4.1,mb,42,183.6,,1.2,us,usp000jusa,2014-11-07T01:49:11.794Z,"Haida Gwaii, Canada",earthquake,,12.2,,23,reviewed,us,us
+2012-10-30T02:55:08.000Z,52.222,-132.117,19.2,5.3,mwr,164,148.7,,,us,usp000jus6,2014-11-07T01:49:11.767Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-30T02:49:02.270Z,52.365,-131.902,9,6.2,mww,579,42.8,,1.13,us,usp000jus5,2015-06-30T16:59:04.011Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,us
+2012-10-30T02:17:09.000Z,52.215,-132.415,20,4.1,mb,100,178.1,,,us,usp000jus3,2014-11-07T01:49:11.687Z,"Haida Gwaii, Canada",earthquake,,,,56,reviewed,pgc,us
+2012-10-30T00:35:09.600Z,52.466,-131.667,10,4.1,mb,132,172.8,,1.36,us,usp000jurz,2014-11-07T01:49:11.669Z,"Haida Gwaii, Canada",earthquake,,,,74,reviewed,us,us
+2012-10-30T00:32:17.140Z,52.508,-132.228,10,4,mb,135,148.7,,1.09,us,usp000jurx,2014-11-07T01:49:11.655Z,"Haida Gwaii, Canada",earthquake,,,,74,reviewed,us,us
+2012-10-29T23:19:57.590Z,52.622,-132.406,10,4,ml,41,188.4,,1,us,usp000jurs,2014-11-07T01:49:11.638Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T22:00:33.090Z,52.587,-132.294,10,4.3,mb,221,134.5,,0.94,us,usp000jurp,2014-11-07T01:49:11.607Z,"Haida Gwaii, Canada",earthquake,,,,118,reviewed,us,us
+2012-10-29T20:49:46.880Z,52.379,-131.491,10,4.9,mwr,269,133.8,,1.13,us,usp000jure,2014-11-07T01:49:11.550Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T20:21:09.190Z,52.552,-132.435,10,4.3,ml,11,194.8,,1.15,us,usp000jurd,2014-11-07T01:49:11.549Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T20:14:26.470Z,52.56,-132.685,10,4.2,mb,33,160.5,,1.07,us,usp000jurc,2014-11-07T01:49:11.546Z,"Haida Gwaii, Canada",earthquake,,,,5,reviewed,us,us
+2012-10-29T19:53:35.010Z,52.451,-131.835,10,4.4,mb,17,186.4,,1.24,us,usp000jura,2014-11-07T01:49:11.541Z,"Haida Gwaii, Canada",earthquake,,,,3,reviewed,us,us
+2012-10-29T19:08:27.440Z,52.416,-131.995,10,4,mb,13,159.7,,1.35,us,usp000jur7,2014-11-07T01:49:11.529Z,"Haida Gwaii, Canada",earthquake,,,,1,reviewed,us,us
+2012-10-29T17:36:02.630Z,52.166,-131.893,10,4.4,mb,30,160.3,,0.93,us,usp000jur5,2014-11-07T01:49:11.524Z,"Haida Gwaii, Canada",earthquake,,,,2,reviewed,us,us
+2012-10-29T16:33:08.320Z,52.264,-131.897,7.3,4.1,mb,108,160.6,,1.28,us,usp000jur2,2014-11-07T01:49:11.507Z,"Haida Gwaii, Canada",earthquake,,11.4,,59,reviewed,us,us
+2012-10-29T16:08:03.290Z,52.386,-131.821,11.4,4,mb,13,154.1,,1.59,us,usp000jur0,2014-11-07T01:49:11.504Z,"Haida Gwaii, Canada",earthquake,,18.6,,3,reviewed,us,us
+2012-10-29T15:40:31.270Z,52.224,-132.193,10,4,mb,65,150.6,,1.34,us,usp000juqy,2014-11-07T01:49:11.497Z,"Haida Gwaii, Canada",earthquake,,,,30,reviewed,us,us
+2012-10-29T15:38:29.850Z,52.084,-132.141,10,4,mb,69,146.2,,1.18,us,usp000juqx,2014-11-07T01:49:11.490Z,"Haida Gwaii, Canada",earthquake,,,,38,reviewed,us,us
+2012-10-29T15:15:01.930Z,51.986,-132.274,10,4,mb,79,146.7,,1.02,us,usp000juqv,2014-11-07T01:49:11.458Z,"Haida Gwaii Region, Canada",earthquake,,,,53,reviewed,us,us
+2012-10-29T15:01:06.890Z,52.013,-131.757,10,4,mb,56,178.4,,1.01,us,usp000juqu,2014-11-07T01:49:11.453Z,"Haida Gwaii, Canada",earthquake,,,,42,reviewed,us,us
+2012-10-29T13:16:11.000Z,52.629,-132.042,30,4,ml,6,239.2,,,us,usp000juqq,2014-11-07T01:49:11.428Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-29T12:05:14.330Z,52.577,-132.574,10,4.4,mb,272,136.9,,0.89,us,usp000juqk,2014-11-07T01:49:11.381Z,"Haida Gwaii, Canada",earthquake,,,,135,reviewed,us,us
+2012-10-29T11:07:15.000Z,51.952,-131.182,10,5,ml,45,171.6,,,us,usp000juqh,2014-11-07T01:49:11.374Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-29T08:58:30.310Z,52.447,-132.039,10,4.6,ml,146,145.9,,1.15,us,usp000juqd,2014-11-07T01:49:11.348Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T08:19:08.350Z,52.406,-131.67,10,4.3,ml,42,171.5,,1.46,us,usp000juqb,2014-11-07T01:49:11.342Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T07:53:03.340Z,52.443,-131.457,10,4.4,ml,118,160.4,,1.17,us,usp000juqa,2014-11-07T01:49:11.332Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T07:39:05.660Z,52.358,-131.786,10,4,mb,141,137.4,,1.07,us,usp000juq7,2014-11-07T01:49:11.300Z,"Haida Gwaii, Canada",earthquake,,,,75,reviewed,us,us
+2012-10-29T06:03:53.250Z,52.943,-132.397,10,4.2,mb,241,133.2,,1.1,us,usp000juq2,2014-11-07T01:49:11.257Z,"Haida Gwaii, Canada",earthquake,,,,133,reviewed,us,us
+2012-10-29T03:47:55.250Z,52.488,-132.162,10,4.1,mb,154,164.3,,1.12,us,usp000jupx,2014-11-07T01:49:11.221Z,"Haida Gwaii, Canada",earthquake,,,,91,reviewed,us,us
+2012-10-29T02:45:47.940Z,52.226,-132.844,10,4.1,mb,25,157.1,,1.27,us,usp000jupv,2014-11-07T01:49:11.216Z,"Haida Gwaii, Canada",earthquake,,,,4,reviewed,us,us
+2012-10-29T02:40:52.990Z,52.397,-132.487,10,4,mb,108,167.2,,1.42,us,usp000jupu,2014-11-07T01:49:11.207Z,"Haida Gwaii, Canada",earthquake,,,,56,reviewed,us,us
+2012-10-29T01:49:01.620Z,52.522,-132.037,10,5,mwr,285,69.3,,1.02,us,usp000jups,2014-11-07T01:49:11.167Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-29T00:26:49.240Z,52.37,-132.123,10,4.3,mb,166,101.6,,1.08,us,usp000jupn,2014-11-07T01:49:11.145Z,"Haida Gwaii, Canada",earthquake,,,,99,reviewed,us,us
+2012-10-29T00:18:48.370Z,52.284,-131.436,10,4,mb,30,181.7,,1.4,us,usp000jupm,2014-11-07T01:49:11.142Z,"Haida Gwaii, Canada",earthquake,,,,8,reviewed,us,us
+2012-10-28T23:55:02.030Z,52.915,-131.47,10,4.1,mb,141,81.5,,1.14,us,usp000jupk,2014-11-07T01:49:11.132Z,"Haida Gwaii, Canada",earthquake,,,,70,reviewed,us,us
+2012-10-28T23:34:23.460Z,52.585,-132.298,10,4.7,mwr,312,66.1,,0.97,us,usp000juph,2014-11-07T01:49:11.105Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T23:31:45.230Z,52.775,-131.535,10,4.1,mb,24,183.9,,1.35,us,usp000jupg,2014-11-07T01:49:11.102Z,"Haida Gwaii, Canada",earthquake,,,,7,reviewed,us,us
+2012-10-28T23:26:50.450Z,52.727,-132.464,10,4.7,mwr,392,69.9,,0.78,us,usp000jupf,2014-11-07T01:49:11.076Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T23:24:36.300Z,52.513,-132.202,13.9,4.1,ml,16,159.8,,,us,usp000jupe,2014-11-07T01:49:11.073Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T23:11:19.280Z,52.654,-132.376,21.9,4.2,mb,170,139.5,,0.79,us,usp000jupb,2014-11-07T01:49:11.051Z,"Haida Gwaii, Canada",earthquake,,6.4,,101,reviewed,us,us
+2012-10-28T22:41:27.950Z,52.391,-131.97,10,4.6,mb,233,142.4,,1.14,us,usp000jupa,2014-11-07T01:49:11.033Z,"Haida Gwaii, Canada",earthquake,,,,142,reviewed,us,us
+2012-10-28T22:35:41.400Z,51.92,-130.931,10,4,mb,45,179.1,,1.14,us,usp000jup9,2014-11-07T01:49:11.028Z,"Haida Gwaii Region, Canada",earthquake,,,,25,reviewed,us,us
+2012-10-28T21:38:20.920Z,52.647,-132.406,14.1,4.7,mwr,56,159.8,,1,us,usp000jup4,2014-11-07T01:49:10.996Z,"Haida Gwaii, Canada",earthquake,,9.7,,,reviewed,us,pgc
+2012-10-28T21:29:04.080Z,52.402,-132.121,10,4.6,mb,142,115.4,,1.03,us,usp000jup3,2014-11-07T01:49:10.982Z,"Haida Gwaii, Canada",earthquake,,,,115,reviewed,us,us
+2012-10-28T20:02:43.300Z,52.341,-132.175,10,4.6,mb,103,97.5,,1.24,us,usp000jup1,2014-11-07T01:49:10.968Z,"Haida Gwaii, Canada",earthquake,,,,24,reviewed,us,us
+2012-10-28T19:16:50.760Z,52.647,-132.478,10,5.2,mwr,211,71.5,,1.04,us,usp000jup0,2014-11-07T01:49:10.895Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T19:09:53.900Z,52.294,-132.082,10,5.6,mwr,259,37.1,,1.48,us,usp000junz,2014-11-07T01:49:10.875Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T19:03:21.850Z,52.834,-132.667,10,5.4,mwr,211,83.6,,1.02,us,usp000junx,2014-11-07T01:49:10.847Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T19:02:08.490Z,52.9,-132.283,21.5,4.9,mb,60,113.6,,1.34,us,usp000junw,2014-11-07T01:49:10.843Z,"Haida Gwaii, Canada",earthquake,,12.9,,6,reviewed,us,us
+2012-10-28T18:57:31.300Z,52.472,-132.374,10,5.2,mwr,48,167.6,,0.86,us,usp000junv,2014-11-07T01:49:10.772Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T18:54:20.830Z,52.674,-132.602,9,6.3,mww,399,70.8,,1.14,us,usp000junu,2015-06-30T16:59:04.011Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,us
+2012-10-28T18:41:12.820Z,52.632,-132.473,10,4.3,ml,21,162.5,,1.09,us,usp000junt,2014-11-07T01:49:10.736Z,"Haida Gwaii, Canada",earthquake,,0,,,reviewed,us,pgc
+2012-10-28T17:34:49.960Z,52.58,-131.959,10,4.5,ml,12,192.4,,1.23,us,usp000junq,2014-11-07T01:49:10.728Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T17:05:27.480Z,52.595,-132.643,3.8,4,mb,20,178.4,,1.3,us,usp000junp,2014-11-07T01:49:10.726Z,"Haida Gwaii, Canada",earthquake,,26.1,,2,reviewed,us,us
+2012-10-28T16:27:55.690Z,52.769,-131.968,10,4.3,ml,49,151.3,,1.26,us,usp000junm,2014-11-07T01:49:10.720Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T16:17:03.370Z,52.521,-131.559,10,4.5,mwr,215,141.1,,1.08,us,usp000junj,2014-11-07T01:49:10.702Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T15:59:11.460Z,52.79,-132.565,10,4.7,mb,150,148.2,,0.95,us,usp000junh,2014-11-07T01:49:10.690Z,"Haida Gwaii, Canada",earthquake,,,,96,reviewed,us,us
+2012-10-28T15:57:16.000Z,52.683,-132.689,11.9,4.4,mb,132,156.6,,1.06,us,usp000jung,2014-11-07T01:49:10.680Z,"Haida Gwaii, Canada",earthquake,,8.2,,73,reviewed,us,us
+2012-10-28T15:48:45.800Z,52.427,-132.26,10,4.4,mb,99,166.7,,1.22,us,usp000junf,2014-11-07T01:49:10.672Z,"Haida Gwaii, Canada",earthquake,,,,50,reviewed,us,us
+2012-10-28T15:44:58.920Z,52.306,-132.422,10,4.4,mb,210,91.4,,1.13,us,usp000june,2014-11-07T01:49:10.658Z,"Haida Gwaii, Canada",earthquake,,,,104,reviewed,us,us
+2012-10-28T15:42:21.670Z,52.428,-131.379,10,4,mb,57,137.1,,1.53,us,usp000jund,2014-11-07T01:49:10.653Z,"Haida Gwaii, Canada",earthquake,,,,28,reviewed,us,us
+2012-10-28T15:28:14.860Z,52.642,-132.942,10,4,mb,32,180.1,,1.22,us,usp000junc,2014-11-07T01:49:10.649Z,"Haida Gwaii, Canada",earthquake,,,,4,reviewed,us,us
+2012-10-28T15:24:21.000Z,52.876,-132.047,10,4.3,mb,88,161.2,,,us,usp000juna,2014-11-07T01:49:10.638Z,"Haida Gwaii, Canada",earthquake,,,,33,reviewed,pgc,us
+2012-10-28T15:10:34.240Z,52.502,-132.087,10,4,mb,52,163.6,,1.3,us,usp000jun9,2014-11-07T01:49:10.633Z,"Haida Gwaii, Canada",earthquake,,,,26,reviewed,us,us
+2012-10-28T15:06:55.080Z,52.421,-132.161,10,4.4,mb,183,140,,0.83,us,usp000jun8,2014-11-07T01:49:10.617Z,"Haida Gwaii, Canada",earthquake,,,,79,reviewed,us,us
+2012-10-28T14:46:03.410Z,50.795,-129.777,10,4.5,mwr,16,175.1,,,us,usp000jun7,2014-11-07T01:49:10.610Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T14:41:01.000Z,52.608,-132.234,25,4.2,ml,9,225.7,,,us,usp000jun6,2014-11-07T01:49:10.608Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T14:14:28.770Z,52.593,-131.451,10,4,mb,88,156.4,,1.34,us,usp000jun5,2014-11-07T01:49:10.532Z,"Haida Gwaii, Canada",earthquake,,,,22,reviewed,us,us
+2012-10-28T14:04:28.000Z,52.675,-132.327,10,4.2,mb,145,138.7,,1.17,us,usp000jun4,2014-11-07T01:49:10.519Z,"Haida Gwaii, Canada",earthquake,,,,60,reviewed,us,us
+2012-10-28T13:45:48.890Z,51.136,-130.292,10,4.1,mb,110,163.5,,1.28,us,usp000jun3,2015-03-24T02:23:51.015Z,"Haida Gwaii Region, Canada",earthquake,,,,65,reviewed,us,us
+2012-10-28T13:09:14.330Z,52.434,-131.868,10,5.1,mwr,336,70.2,,0.78,us,usp000jun2,2015-03-24T02:37:02.912Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T13:07:03.930Z,52.044,-132.485,10,4.2,mb,15,176.4,,0.93,us,usp000jun1,2014-11-07T01:49:10.368Z,"Haida Gwaii, Canada",earthquake,,,,3,reviewed,us,us
+2012-10-28T12:53:05.000Z,52.463,-132.278,20,4.1,ml,6,245.7,,,us,usp000jumz,2014-11-07T01:49:10.365Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T12:38:43.000Z,52.626,-132.474,5,4,mb,146,149.3,,,us,usp000jumy,2014-11-07T01:49:10.354Z,"Haida Gwaii, Canada",earthquake,,,,61,reviewed,pgc,us
+2012-10-28T12:17:56.000Z,52.506,-132.04,10,4,mb,163,150.1,,,us,usp000jumw,2014-11-07T01:49:10.340Z,"Haida Gwaii, Canada",earthquake,,,,81,reviewed,pgc,us
+2012-10-28T12:09:40.860Z,52.644,-132.45,10,4,mb,95,152.4,,0.93,us,usp000jumu,2015-03-24T01:33:43.977Z,"Haida Gwaii, Canada",earthquake,,,,62,reviewed,us,us
+2012-10-28T11:53:18.000Z,52.36,-132.371,20,5.1,mwr,265,106.3,,,us,usp000jumt,2014-11-07T01:49:10.279Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T11:27:45.670Z,52.448,-132.134,10,5.2,mwr,362,64.6,,0.92,us,usp000jumq,2014-11-07T01:49:10.239Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T11:23:42.000Z,52.608,-132.234,20,4.1,ml,6,249.2,,,us,usp000jump,2014-11-07T01:49:10.238Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T11:17:16.000Z,52.4,-132.42,5,4.3,mb,219,81.3,,,us,usp000jumn,2014-11-07T01:49:10.223Z,"Haida Gwaii, Canada",earthquake,,,,122,reviewed,pgc,us
+2012-10-28T10:59:14.580Z,52.421,-131.942,10,4,mb,129,153.4,,0.99,us,usp000jumk,2014-11-07T01:49:10.206Z,"Haida Gwaii, Canada",earthquake,,,,72,reviewed,us,us
+2012-10-28T10:50:31.000Z,52.484,-132.231,5,4.3,mb,207,150.4,,,us,usp000jumj,2014-11-07T01:49:10.191Z,"Haida Gwaii, Canada",earthquake,,,,112,reviewed,pgc,us
+2012-10-28T10:45:48.000Z,52.482,-132.517,25,5.1,mwr,275,87,,,us,usp000jumh,2014-11-07T01:49:10.170Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2012-10-28T10:43:22.340Z,52.006,-132.101,10,4,mb,24,153.3,,1.49,us,usp000jumg,2014-11-07T01:49:10.165Z,"Haida Gwaii, Canada",earthquake,,,,8,reviewed,us,us
+2012-10-28T10:26:12.340Z,52.368,-131.219,10,4.1,mb,57,132.4,,1.48,us,usp000jumf,2014-11-07T01:49:10.158Z,"Haida Gwaii, Canada",earthquake,,,,43,reviewed,us,us
+2012-10-28T10:24:15.630Z,52.3,-131.832,10,4.6,mb,70,152.2,,1.35,us,usp000jume,2014-11-07T01:49:10.151Z,"Haida Gwaii, Canada",earthquake,,,,36,reviewed,us,us
+2012-10-28T10:23:08.580Z,52.805,-132.666,10,4.5,mb,287,135.4,,1.2,us,usp000jumd,2014-11-07T01:49:10.130Z,"Haida Gwaii, Canada",earthquake,,,,170,reviewed,us,us
+2012-10-28T10:10:25.000Z,52.36,-132.371,15,4.2,mb,142,153.6,,,us,usp000jumb,2014-11-07T01:49:10.115Z,"Haida Gwaii, Canada",earthquake,,,,78,reviewed,pgc,us
+2012-10-28T10:04:34.000Z,52.812,-132.334,20,4.4,mb,179,149.9,,,us,usp000juma,2014-11-07T01:49:10.088Z,"Haida Gwaii, Canada",earthquake,,,,64,reviewed,pgc,us
+2012-10-28T09:52:59.210Z,52.935,-131.614,10,4.1,mb,95,133.9,,1.08,us,usp000jum8,2014-11-07T01:49:10.078Z,"Haida Gwaii, Canada",earthquake,,,,57,reviewed,us,us
+2012-10-28T09:45:38.540Z,52.954,-132.251,10,4.8,mwr,251,135.7,,1.31,us,usp000jum6,2014-11-07T01:49:10.058Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T09:41:15.800Z,52.084,-132.24,10,4.2,mb,116,165.4,,1.13,us,usp000jum4,2014-11-07T01:49:10.041Z,"Haida Gwaii, Canada",earthquake,,,,85,reviewed,us,us
+2012-10-28T09:36:35.000Z,52.36,-132.371,15,4.6,mb,315,135.9,,,us,usp000jum3,2014-11-07T01:49:10.020Z,"Haida Gwaii, Canada",earthquake,,,,168,reviewed,pgc,us
+2012-10-28T09:26:36.720Z,52.081,-132.273,10,4.1,mb,28,161.3,,1.49,us,usp000jum2,2014-11-07T01:49:10.017Z,"Haida Gwaii, Canada",earthquake,,,,7,reviewed,us,us
+2012-10-28T09:22:50.540Z,52.546,-131.198,10,4.4,mb,115,162.2,,1.2,us,usp000jum1,2014-11-07T01:49:10.007Z,"Haida Gwaii, Canada",earthquake,,,,69,reviewed,us,us
+2012-10-28T09:17:27.700Z,52.243,-132.01,10,5.3,mwr,418,45.2,,0.93,us,usp000jum0,2014-11-07T01:49:09.979Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T09:15:46.230Z,52.282,-131.905,10,4.2,mb,140,148.5,,1.2,us,usp000jukz,2014-11-07T01:49:09.966Z,"Haida Gwaii, Canada",earthquake,,,,83,reviewed,us,us
+2012-10-28T08:54:38.370Z,52.582,-132.095,10,4.1,mb,74,172.3,,0.67,us,usp000jukx,2014-11-07T01:49:09.947Z,"Haida Gwaii, Canada",earthquake,,,,43,reviewed,us,us
+2012-10-28T08:48:52.080Z,52.689,-132.721,10,4.4,mb,69,195.2,,0.63,us,usp000jukw,2014-11-07T01:49:09.942Z,"Haida Gwaii, Canada",earthquake,,,,35,reviewed,us,us
+2012-10-28T08:47:39.670Z,52.159,-132.344,10,4.3,mb,39,171.2,,1.5,us,usp000jukv,2014-11-07T01:49:09.937Z,"Haida Gwaii, Canada",earthquake,,,,9,reviewed,us,us
+2012-10-28T08:22:04.120Z,52.094,-132.074,10,4.3,mb,54,175.8,,1.05,us,usp000juku,2014-11-07T01:49:09.930Z,"Haida Gwaii, Canada",earthquake,,,,51,reviewed,us,us
+2012-10-28T08:15:46.580Z,52.412,-131.682,10,4.2,mb,109,167,,0.9,us,usp000jukt,2014-11-07T01:49:09.921Z,"Haida Gwaii, Canada",earthquake,,,,75,reviewed,us,us
+2012-10-28T08:01:26.820Z,52.04,-132.631,10,4,mb,107,143.5,,1.18,us,usp000juks,2014-11-07T01:49:09.912Z,"Haida Gwaii, Canada",earthquake,,,,41,reviewed,us,us
+2012-10-28T07:56:26.680Z,52.643,-132.055,10,4,mb,30,170.9,,1.06,us,usp000jukr,2014-11-07T01:49:09.909Z,"Haida Gwaii, Canada",earthquake,,,,4,reviewed,us,us
+2012-10-28T07:39:05.970Z,51.975,-131.251,10,4,mb,36,169.6,,1.08,us,usp000jukp,2014-11-07T01:49:09.900Z,"Haida Gwaii Region, Canada",earthquake,,,,18,reviewed,us,us
+2012-10-28T07:25:21.510Z,52.319,-131.561,10,5.2,mwr,356,91.5,,1.18,us,usp000jukn,2014-11-07T01:49:09.873Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T07:16:37.330Z,52.773,-132.555,10,4.9,mb,261,142.9,,1.18,us,usp000jukm,2014-11-07T01:49:09.852Z,"Haida Gwaii, Canada",earthquake,,,,171,reviewed,us,us
+2012-10-28T07:15:04.920Z,52.677,-132.249,10,4.4,mb,96,148.3,,0.67,us,usp000jukk,2014-11-07T01:49:09.843Z,"Haida Gwaii, Canada",earthquake,,,,44,reviewed,us,us
+2012-10-28T07:12:13.910Z,52.165,-132.33,10,4.9,mwr,119,143.9,,1.11,us,usp000jukj,2014-11-07T01:49:09.821Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T07:09:28.190Z,52.36,-131.942,10,4,mb,75,137.8,,0.81,us,usp000jukh,2014-11-07T01:49:09.798Z,"Haida Gwaii, Canada",earthquake,,,,41,reviewed,us,us
+2012-10-28T07:02:18.730Z,51.976,-131.821,10,4.4,mb,161,161,,1.23,us,usp000jukg,2014-11-07T01:49:09.784Z,"Haida Gwaii Region, Canada",earthquake,,,,118,reviewed,us,us
+2012-10-28T06:59:47.400Z,52.13,-132.371,9.9,4,mb,29,185,,0.74,us,usp000jukf,2014-11-07T01:49:09.781Z,"Haida Gwaii, Canada",earthquake,,3.2,,1,reviewed,us,us
+2012-10-28T06:35:37.070Z,52.319,-131.579,10,4,mb,76,140.7,,1.23,us,usp000juke,2014-11-07T01:49:09.775Z,"Haida Gwaii, Canada",earthquake,,,,25,reviewed,us,us
+2012-10-28T06:33:08.130Z,52.088,-132.953,10.3,4,mb,27,177.5,,0.53,us,usp000jukd,2014-11-07T01:49:09.772Z,"Haida Gwaii, Canada",earthquake,,9.2,,9,reviewed,us,us
+2012-10-28T06:28:08.390Z,52.673,-131.746,10,4,mb,65,140.8,,0.96,us,usp000jukc,2014-11-07T01:49:09.764Z,"Haida Gwaii, Canada",earthquake,,,,35,reviewed,us,us
+2012-10-28T06:16:52.140Z,52.335,-131.36,10,5.2,mwr,314,105.3,,0.94,us,usp000jukb,2014-11-07T01:49:09.740Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T06:04:00.050Z,52.423,-132.468,10,4.4,mb,20,192.8,,0.81,us,usp000juk8,2014-11-07T01:49:09.729Z,"Haida Gwaii, Canada",earthquake,,,,3,reviewed,us,us
+2012-10-28T06:01:34.210Z,52.691,-132.588,10,4.1,mb,31,170.8,,0.7,us,usp000juk7,2014-11-07T01:49:09.727Z,"Haida Gwaii, Canada",earthquake,,,,9,reviewed,us,us
+2012-10-28T05:56:09.450Z,52.742,-132.768,10,4.1,mb,65,145.7,,0.84,us,usp000juk6,2014-11-07T01:49:09.722Z,"Haida Gwaii, Canada",earthquake,,,,36,reviewed,us,us
+2012-10-28T05:51:17.300Z,52.81,-132.72,10,4.5,mb,171,154.2,,1.11,us,usp000juk5,2014-11-07T01:49:09.710Z,"Haida Gwaii, Canada",earthquake,,,,96,reviewed,us,us
+2012-10-28T05:47:08.000Z,52.465,-131.451,10,4.2,mb,190,139.3,,0.87,us,usp000juk4,2014-11-07T01:49:09.696Z,"Haida Gwaii, Canada",earthquake,,,,114,reviewed,us,us
+2012-10-28T05:41:24.100Z,52.624,-132.551,10,4,mb,25,183.5,,0.94,us,usp000juk3,2014-11-07T01:49:09.693Z,"Haida Gwaii, Canada",earthquake,,,,6,reviewed,us,us
+2012-10-28T05:38:37.980Z,51.943,-131.988,10,4.1,mb,55,140.9,,0.99,us,usp000juk2,2014-11-07T01:49:09.688Z,"Haida Gwaii Region, Canada",earthquake,,,,37,reviewed,us,us
+2012-10-28T05:35:24.100Z,52.397,-131.692,10,4,mb,47,182.5,,0.88,us,usp000juk1,2014-11-07T01:49:09.684Z,"Haida Gwaii, Canada",earthquake,,,,18,reviewed,us,us
+2012-10-28T05:29:04.730Z,52.868,-131.387,10,4.2,mb,75,134.4,,0.91,us,usp000jujy,2014-11-07T01:49:09.670Z,"Haida Gwaii, Canada",earthquake,,,,40,reviewed,us,us
+2012-10-28T05:27:54.720Z,52.818,-131.323,10,4.2,mb,37,156.2,,0.97,us,usp000jujx,2014-11-07T01:49:09.666Z,"Haida Gwaii, Canada",earthquake,,,,21,reviewed,us,us
+2012-10-28T05:24:50.610Z,52.62,-132.683,10,4.4,mb,68,166.4,,1.02,us,usp000jujw,2014-11-07T01:49:09.661Z,"Haida Gwaii, Canada",earthquake,,,,23,reviewed,us,us
+2012-10-28T05:22:03.570Z,52.413,-132.007,10,4.3,mb,73,142.5,,0.82,us,usp000jujv,2014-11-07T01:49:09.655Z,"Haida Gwaii, Canada",earthquake,,,,23,reviewed,us,us
+2012-10-28T05:21:32.710Z,52.486,-131.79,10,4.3,mb,80,181.3,,1.33,us,usp000juju,2014-11-07T01:49:09.646Z,"Haida Gwaii, Canada",earthquake,,,,55,reviewed,us,us
+2012-10-28T05:18:40.950Z,52.637,-132.927,10,4.2,mb,93,154.9,,0.88,us,usp000jujt,2014-11-07T01:49:09.637Z,"Haida Gwaii, Canada",earthquake,,,,43,reviewed,us,us
+2012-10-28T05:15:13.690Z,52.487,-132.072,10,4.3,mb,122,103.9,,0.95,us,usp000jujs,2014-11-07T01:49:09.627Z,"Haida Gwaii, Canada",earthquake,,,,81,reviewed,us,us
+2012-10-28T05:09:03.180Z,52.353,-131.973,10,4.3,mb,67,154.4,,0.66,us,usp000jujr,2014-11-07T01:49:09.621Z,"Haida Gwaii, Canada",earthquake,,,,25,reviewed,us,us
+2012-10-28T05:04:28.250Z,52.549,-132.873,10,4.4,mb,35,197.4,,0.91,us,usp000jujq,2014-11-07T01:49:09.618Z,"Haida Gwaii, Canada",earthquake,,,,10,reviewed,us,us
+2012-10-28T05:02:49.590Z,52.437,-132.172,10,4.5,mb,162,143.9,,1.25,us,usp000jujp,2014-11-07T01:49:09.594Z,"Haida Gwaii, Canada",earthquake,,,,105,reviewed,us,us
+2012-10-28T04:54:44.480Z,52.735,-132.316,10,4.3,mb,120,164.4,,0.95,us,usp000jujm,2014-11-07T01:49:09.581Z,"Haida Gwaii, Canada",earthquake,,,,51,reviewed,us,us
+2012-10-28T04:53:14.000Z,52.639,-131.965,1,4.1,mb,74,136.7,,,us,usp000jujk,2014-11-07T01:49:09.575Z,"Haida Gwaii, Canada",earthquake,,,,19,reviewed,pgc,us
+2012-10-28T04:51:49.020Z,52.704,-132.158,10,4.1,mb,74,168.6,,1,us,usp000jujj,2014-11-07T01:49:09.558Z,"Haida Gwaii, Canada",earthquake,,,,24,reviewed,us,us
+2012-10-28T04:49:11.860Z,52.687,-131.899,10,4.1,mb,39,180.3,,1.24,us,usp000jujh,2014-11-07T01:49:09.553Z,"Haida Gwaii, Canada",earthquake,,,,17,reviewed,us,us
+2012-10-28T04:41:02.600Z,52.549,-132.299,10,5.3,mwr,232,136.9,,1.05,us,usp000jujg,2014-11-07T01:49:09.536Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T04:33:41.290Z,52.701,-132.253,10,4.7,mb,109,148.1,,1.09,us,usp000jujf,2014-11-07T01:49:09.528Z,"Haida Gwaii, Canada",earthquake,,,,51,reviewed,us,us
+2012-10-28T04:26:45.870Z,52.735,-132.395,11.2,5.1,mb,307,68.7,,0.94,us,usp000juje,2014-11-07T01:49:09.508Z,"Haida Gwaii, Canada",earthquake,,3.8,,214,reviewed,us,us
+2012-10-28T04:25:28.510Z,52.624,-132.49,10,5.2,mb,505,65.1,,0.79,us,usp000jujd,2014-11-07T01:49:09.475Z,"Haida Gwaii, Canada",earthquake,,,,293,reviewed,us,us
+2012-10-28T03:52:20.480Z,52.576,-131.962,10,5.5,mwr,243,68.6,,0.96,us,usp000juj7,2014-11-07T01:49:09.443Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,pgc
+2012-10-28T03:38:10.000Z,52.514,-132.026,20,4.6,mb,74,153.1,,,us,usp000juj6,2014-11-07T01:49:09.437Z,"Haida Gwaii, Canada",earthquake,,,,11,reviewed,pgc,us
+2012-10-28T03:35:26.100Z,52.885,-132.199,10,4.2,mb,49,180.9,,1.13,us,usp000juj4,2014-11-07T01:49:09.429Z,"Haida Gwaii, Canada",earthquake,,,,12,reviewed,us,us
+2012-10-28T03:34:48.760Z,52.407,-131.981,10,4.3,mb,45,178.4,,0.9,us,usp000juj3,2014-11-07T01:49:09.426Z,"Haida Gwaii, Canada",earthquake,,,,5,reviewed,us,us
+2012-10-28T03:04:08.820Z,52.788,-132.101,14,7.8,mww,807,42.7,,0.99,us,usp000juhz,2020-02-28T23:38:18.423Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,us,us
+2012-08-23T08:37:05.790Z,47.939,-128.156,10,4.1,mb,124,181.6,,1.1,us,usp000jqmy,2014-11-07T01:48:36.648Z,"off the coast of Washington",earthquake,,,,38,reviewed,us,us
+2012-08-20T06:02:38.390Z,47.696,-128.655,10,2.8,ml,38,242.8,,1.14,us,usp000jqhw,2014-11-07T01:48:36.061Z,"off the coast of Washington",earthquake,,,,,reviewed,us,us
+2012-08-19T23:58:18.430Z,47.696,-128.574,10,3.9,mb,40,264.5,,0.75,us,usp000jqhd,2014-11-07T01:48:36.011Z,"off the coast of Washington",earthquake,,,,1,reviewed,us,us
+2012-08-19T10:04:03.230Z,47.837,-128.452,10,4.5,mb,402,141.8,,0.96,us,usp000jqgp,2015-03-24T02:23:05.336Z,"off the coast of Washington",earthquake,,,,153,reviewed,us,us
+2012-08-19T09:51:31.000Z,47.854,-128.398,10,2.9,ml,25,183.5,,1.17,us,usp000jqgn,2014-11-07T01:48:35.842Z,"off the coast of Washington",earthquake,,,,,reviewed,us,us
+2012-08-19T09:14:03.490Z,47.787,-128.515,10,3,ml,42,188.9,,1.09,us,usp000jqgk,2014-11-07T01:48:35.824Z,"off the coast of Washington",earthquake,,,,,reviewed,us,us
+2012-08-19T08:33:16.620Z,47.82,-128.558,10,3,ml,10,192.9,,1.1,us,usp000jqgh,2014-11-07T01:48:35.820Z,"off the coast of Washington",earthquake,,,,,reviewed,us,sea
+2012-08-19T08:13:05.390Z,47.8,-128.749,10,4.5,mb,18,183.8,,1.22,us,usp000jqgf,2014-11-07T01:48:35.813Z,"off the coast of Washington",earthquake,,,,6,reviewed,us,us
+2012-08-19T08:07:35.780Z,47.789,-128.619,10,5.6,mww,546,116.6,,0.88,us,usp000jqge,2015-03-24T01:32:12.842Z,"off the coast of Washington",earthquake,,,,,reviewed,us,us
+2012-07-04T13:35:46.780Z,50.632,-129.663,10,4.6,mwr,250,150.7,,1.1,us,usp000jnky,2014-11-07T01:48:16.129Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-06-27T04:22:34.730Z,49.48,-128.949,10,4.8,mwr,306,161.4,,1.1,us,usp000jn9p,2015-03-24T02:42:59.530Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-06-02T00:37:05.530Z,50.531,-130.323,10,4.1,mw,15,220.9,,,us,usp000jm7m,2014-11-07T01:47:59.158Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-06-01T04:12:17.410Z,48.864,-129.158,10,3.8,mw,130,179.9,,,us,usp000jm6j,2015-03-24T01:29:58.534Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-06-01T01:49:48.160Z,49.182,-128.788,10.5,4,mw,144,173.8,,1.18,us,usp000jm6f,2014-11-07T01:47:57.755Z,"Vancouver Island, Canada region",earthquake,,16.7,,,reviewed,us,pgc
+2012-05-25T07:26:18.880Z,50.041,-130.256,10,4.4,mwr,180,163.8,,,us,usp000jkwu,2014-11-07T01:47:52.745Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-05-12T00:58:01.970Z,50.474,-130.116,10,4.7,mw,237,148.3,,,us,usp000jkb4,2014-11-07T01:47:46.900Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-05-04T10:55:37.020Z,50.648,-130.241,10,5,mw,283,78,,,us,usp000jjzx,2015-03-24T01:28:59.064Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-05-02T12:33:26.000Z,50.458,-130.214,10,4.2,mwr,69,140.8,,,us,usp000jjx1,2014-11-07T01:47:43.354Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-05-01T22:53:42.240Z,50.566,-130.339,10,4.8,mwr,178,146.1,,,us,usp000jjw0,2014-11-07T01:47:42.815Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-29T05:12:17.240Z,50.367,-130.231,10,4.1,mw,109,151.7,,,us,usp000jjrt,2014-11-07T01:47:38.090Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-29T04:35:08.670Z,50.682,-129.603,35,4,mb,42,150.9,,1.32,us,usp000jjrq,2014-11-07T01:47:38.076Z,"Vancouver Island, Canada region",earthquake,,,,11,reviewed,us,us
+2012-04-28T03:42:22.980Z,50.627,-129.79,10,4.5,mb,226,139,,1.11,us,usp000jjq2,2015-03-24T01:28:46.566Z,"Vancouver Island, Canada region",earthquake,,,,108,reviewed,us,us
+2012-04-27T16:22:30.800Z,50.486,-130.108,10,4.7,mwr,63,168.5,,,us,usp000jjpg,2014-11-07T01:47:37.696Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-27T16:20:13.100Z,50.46,-130.19,10,4.3,mwr,23,177,,,us,usp000jjpf,2014-11-07T01:47:37.693Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-27T16:14:47.500Z,50.42,-130.19,10,4.5,mwr,17,187.3,,,us,usp000jjpe,2014-11-07T01:47:37.691Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-27T12:52:42.970Z,50.494,-130.064,10,4.9,mwr,197,148,,,us,usp000jjp6,2015-03-24T01:28:43.162Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-27T12:51:12.640Z,50.465,-130.084,10,4.2,mwr,38,187.1,,,us,usp000jjp5,2014-11-07T01:47:37.653Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-25T06:23:57.000Z,50.55,-130.16,10,4,mw,104,182.2,,,us,usp000jjjf,2014-11-07T01:47:37.051Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-04-22T08:36:20.040Z,50.666,-129.891,10,4.7,mw,224,140.6,,1.07,us,usp000jjd9,2014-11-07T01:47:35.820Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-03-03T14:45:10.550Z,48.767,-128.397,10,3.7,mw,50,171.7,,1.28,us,usp000jfr3,2015-03-24T01:26:45.704Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2012-03-01T05:01:02.550Z,50.462,-130.201,10,4.1,mwr,57,208.7,,,us,usp000jfmu,2014-11-07T01:47:08.327Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-02-14T22:54:35.210Z,48.989,-129.348,10,4.1,mw,167,182.9,,,us,usp000jeyf,2015-03-24T01:26:05.893Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2012-01-13T19:46:04.820Z,51.076,-130.72,10,5.2,mwr,271,148.3,,,us,usp000jdez,2015-03-24T01:24:48.305Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-12-19T08:12:42.000Z,51.03,-130.65,10,4.5,mw,98,174.8,,,us,usp000jcd7,2014-11-07T01:46:35.657Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-12-12T11:32:36.620Z,48.197,-129.239,10,3.9,mb,21,184.8,,1.42,us,usp000jc40,2014-11-07T01:46:33.342Z,"Vancouver Island, Canada region",earthquake,,,,5,reviewed,us,us
+2011-11-23T23:02:41.000Z,50.45,-130.13,10,5,mwc,143,174.3,,,us,usp000jban,2014-11-07T01:46:24.382Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,gcmt
+2011-10-10T05:39:23.700Z,50.49,-130.36,10,4.4,mwr,190,174.1,,,us,usp000j95r,2014-11-07T01:46:05.739Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-09-21T04:36:58.990Z,48.928,-129.355,10,4.5,mwr,121,179.5,,,us,usp000j8bm,2014-11-07T01:45:56.121Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-09-12T09:37:25.520Z,50.58,-130.345,10,4.6,mwr,217,149.4,,,us,usp000j7ye,2014-11-07T01:45:53.020Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-09-06T01:50:17.360Z,51.39,-131.057,10,4.5,mwr,20,214.9,,,us,usp000j7p7,2014-11-07T01:45:50.712Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-08-18T15:37:40.400Z,51.747,-130.717,10,5.1,mwc,255,139,,1.23,us,usp000j6n1,2014-11-07T01:45:38.051Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,us,gcmt
+2011-08-18T15:35:42.510Z,51.425,-131.008,10,4.9,mwr,248,140.7,,,us,usp000j6n0,2014-11-07T01:45:38.033Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-08-12T22:22:57.000Z,48.91,-129.31,10,3.7,mw,21,210.3,,,us,usp000j6cs,2014-11-07T01:45:36.018Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-06-27T08:25:43.610Z,49.103,-129.759,10,4.3,mb,26,218.4,,,us,usp000j3u5,2014-11-07T01:45:10.969Z,"Vancouver Island, Canada region",earthquake,,,,6,reviewed,pgc,us
+2011-06-17T02:22:23.570Z,51.959,-131.338,10,4.9,mwr,309,141.9,,1.1,us,usp000j3a0,2014-11-07T01:45:06.376Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,us,pgc
+2011-06-03T22:59:54.000Z,52.54,-132.23,20,4,mwr,18,209.9,,,us,usp000j2nr,2014-11-07T01:45:01.644Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-05-16T05:59:52.860Z,52.042,-132.051,20,4.6,mwr,39,175.9,,,us,usp000j1p8,2014-11-07T01:44:51.671Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-03-20T04:20:35.280Z,49.665,-128.621,10,4.6,mwr,206,151.5,,,us,usp000hy0e,2014-11-07T01:44:15.172Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-03-03T03:54:59.910Z,50.243,-130.23,10,4.5,mwr,88,165.4,,,us,usp000hv9a,2014-11-07T01:43:50.828Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-02-28T01:55:46.020Z,51.917,-131.377,20,4.1,mwr,22,191.8,,,us,usp000hv5f,2014-11-07T01:43:44.681Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2011-02-03T07:52:17.790Z,50.748,-130.298,10,4.6,mwr,77,173.4,,,us,usp000hu0k,2014-11-07T01:43:36.357Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-01-29T07:58:28.690Z,50.624,-130.424,10,4.7,mwr,11,188.8,,,us,usp000htt5,2014-11-07T01:43:31.376Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2011-01-04T20:20:01.430Z,50.399,-130.255,10,4.2,mwr,25,194.9,,,us,usp000hsk7,2014-11-07T01:43:21.830Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-12-09T01:15:49.740Z,51.393,-130.846,10,4,mwr,10,218.8,,,us,usp000hqq2,2014-11-07T01:43:05.774Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2010-11-15T12:19:17.190Z,47.89,-129.146,10,4.2,mwr,84,133,,1.36,us,usp000hppt,2014-11-07T01:42:55.572Z,"off the coast of Washington",earthquake,,,,,reviewed,us,us
+2010-10-11T01:21:05.550Z,50.712,-130.444,10,4.3,mwr,42,194.4,,,us,usp000hmys,2014-11-07T01:42:41.446Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-10-10T08:35:35.940Z,50.519,-130.303,10,4.1,mwr,45,261.2,,,us,usp000hmxx,2014-11-07T01:42:41.351Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-10-04T14:51:54.540Z,49.357,-129.315,10,5.3,mwc,119,151,,1.26,us,usp000hmkr,2016-11-10T02:34:17.433Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,gcmt
+2010-10-04T05:56:16.870Z,49.447,-129.086,10,4.7,mwr,138,149.7,,1.31,us,usp000hmk3,2014-11-07T01:42:38.633Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2010-10-03T15:25:57.290Z,49.483,-128.966,10,4.3,mwr,22,186.6,,1.47,us,usp000hmj6,2014-11-07T01:42:38.319Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2010-09-17T14:52:29.650Z,49.217,-129.094,10,3.9,mw,39,185.2,,1.37,us,usp000hkux,2014-11-07T01:42:28.651Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2010-09-06T01:42:00.530Z,50.201,-130.22,10,3.9,mw,16,195.5,,,us,usp000hkak,2014-11-07T01:42:24.354Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-09-06T01:15:24.840Z,50.023,-130.187,10,3.8,mw,20,192.3,,,us,usp000hkaj,2014-11-07T01:42:24.352Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-08-17T11:37:57.680Z,50.839,-129.948,13.6,4.6,mwr,113,160.5,,1.18,us,usp000hjb7,2014-11-07T01:42:15.519Z,"Vancouver Island, Canada region",earthquake,,17.2,,,reviewed,us,pgc
+2010-07-26T08:43:25.340Z,50.178,-129.932,10,4.6,mwr,171,149.5,,1.17,us,usp000hgut,2015-03-24T01:10:49.271Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2010-07-19T17:15:04.560Z,49.46,-130.047,10,5.4,mwc,315,67.2,,,us,usp000hfz8,2016-11-10T02:30:50.908Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,gcmt
+2010-07-11T06:22:03.900Z,50.04,-130.26,10,3.9,mw,73,196.3,,,us,usp000hf4y,2014-11-07T01:41:52.324Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-07-03T13:14:44.000Z,50.42,-130.36,10,4.9,mwc,67,177.6,,,us,usp000hev5,2016-11-10T02:30:19.196Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,gcmt
+2010-07-02T07:57:59.430Z,52.604,-132.111,28.7,4,ml,93,180.6,,,us,usp000het9,2014-11-07T01:41:49.335Z,"Haida Gwaii, Canada",earthquake,,,,,reviewed,pgc,pgc
+2010-05-18T21:16:53.490Z,48.329,-128.964,10,4.4,mb,73,150.5,,,us,usp000hcx6,2014-11-07T01:41:30.272Z,"Vancouver Island, Canada region",earthquake,,,,25,reviewed,pgc,us
+2010-05-18T21:15:41.200Z,48.377,-128.804,10,4,mb,20,199.2,,,us,usp000hcx5,2014-11-07T01:41:30.270Z,"Vancouver Island, Canada region",earthquake,,,,2,reviewed,pgc,us
+2010-05-06T23:12:29.600Z,48.036,-128.188,10,4.5,mw,260,163.3,,,us,usp000hce2,2014-11-07T01:41:27.444Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
+2010-03-29T11:38:07.700Z,51.259,-130.831,10,4.7,mwr,64,190.5,,,us,usp000ha3w,2014-11-07T01:41:06.380Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2010-03-28T14:26:49.640Z,51.224,-130.902,10,4.5,mwr,30,210,,,us,usp000ha2n,2014-11-07T01:41:06.148Z,"Haida Gwaii Region, Canada",earthquake,,,,,reviewed,pgc,pgc
+2010-03-16T01:38:35.940Z,49.139,-128.742,10,3.9,mw,51,184.5,,0.97,us,usp000h9fm,2014-11-07T01:41:02.325Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,us,pgc
+2010-01-12T21:51:45.060Z,48.67,-128.889,10,4.4,mwr,48,179,,,us,usp000h60g,2014-11-07T01:40:26.674Z,"Vancouver Island, Canada region",earthquake,,,,,reviewed,pgc,pgc
