@@ -18,9 +18,15 @@ The next task was to graph the earthquake locations and magnitudes on a map of t
 
 Figure 1: Plot of Earthquake Magnitude vs. Time
 
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-02-28%20at%206.39.08%20PM.png "Time Plot") 
+
 Figure 2: Map of Earthquake Locations and Magnitudes (10 years)
 
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-02-28%20at%206.38.49%20PM.png "Map") 
+
 Figure 3: Map of Earthquake Locations and Magnitudes (April 2015)
+
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-02-28%20at%206.38.56%20PM.png "April Map") 
 
 ## Analysis/Conclusions:
 
