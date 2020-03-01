@@ -28,6 +28,22 @@ Figure 3: Map of Earthquake Locations and Magnitudes (April 2015)
 
 ![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-02-28%20at%206.38.56%20PM.png "April Map") 
 
+Figure 4: Plot of Earthquake Magnitude vs. Time (Divergent Boundary)
+
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-03-01%20at%201.10.02%20PM.png?raw=true "Divergent") 
+
+Figure 5: Map of Earthquake Locations and Magnitudes (Divergent Boundary)
+
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-03-01%20at%201.09.10%20PM.png?raw=true "Divergent") 
+
+Figure 6: Plot of Earthquake Magnitude vs. Time (Transform Boundary)
+
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-03-01%20at%201.10.12%20PM.png?raw=true "Transform") 
+
+Figure 7: Map of Earthquake Locations and Magnitudes (Transform Boundary)
+
+![alt text](https://github.com/shamgold/Project3/blob/master/Screen%20Shot%202020-03-01%20at%201.09.21%20PM.png?raw=true "Transform") 
+
 ## Analysis/Conclusions:
 
 a. Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
@@ -48,7 +64,7 @@ A divergent boundary can be found where the Juan De Fuca Plate meets with the Pa
 
 e. What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
 
-
+The divergent boundary has most eathquake magnitudes in the 3.5 to 5.5 range, with a couple of peaks up into the 6-7 range. By looking at Figure 5, these large scale earthquakes appear to be right on the boundary. The transform boundary has its earthquakes more evenly spread out between a magnitude of 2.5 and 6, with only a few going above this point. Looking at Figure 7, you can see that the larger earthquakes fall right on the boundary with the smaller ones along the sides. The divergent boundary seems to have less earthquakes in general than the transform one, but has more that go over a magnitude of 6. 
 
 ## References:
 
